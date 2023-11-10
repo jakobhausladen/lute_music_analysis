@@ -1,0 +1,71 @@
+                                                                             5. What if I sped                                                                                                Robert Jones
+
+                ¿/       π        ¿                                                  ¿           ¿           ¿                                      ¿/       π           ¿/       π                    ø        ø
+                a        a        ¢               a                                  d           a                                                  a        a           ¢        ¢                    d        d
+                a                 d                         d                        a           a           a        a                             b                    b                             d        a
+                                                                                                 b           a        b                                                                                f        b
+     ë          ¢                 a                                                  ¢
+                                                                                                             ¢
+                                                                                                                      ¢        a
+                                                                                                                                                    d                    a
+                                                                                                 a                                                                                                     d
+
+
+5     ¿/    π        ¿                                           ¿           ¿           ¿                                ¿/       π           ¿/       π            ø            ø               ø/
+      a     a        ¢        a                                  d           a                                            a        a           ¢        ¢            d            d
+      a              d                    d                      a           a       a           a                        b                    b                     d            a            d           d
+                                                                             b       a           b                                                                   f            b            f
+      ¢              a                                           ¢                               ¢       a
+                                                                                     ¢                                    d                    a                                               ¢           ¢    a
+                                                                             a                                                                                       d
+
+
+10    ¿      ¿       ¿            ¿                     ø        ¿               ¿                   ¿           ¿    ¿        ¿                    ø/                                ¿        ¿       ¿        ¿
+      a      ¢       d            a                     ¢        ¢               ¢                                    d        ¢                                     a                ¢                a        ¢
+      a      ¢       f            a                                              a                           d                 ¢                    e       e                                 d
+                                                        d        d                                   b                         a                    f                                 d                b
+                                  ¢                     a        a                                   ¢       a        ¢                                                                       a
+                                                                                 ¢                                                                  ¢       ¢                         a                d        a
+      d      ¢       a
+
+
+15    ø/                                      ¿         ¿                                    ¿               ø        ø                    ¿        ¿       ¿/       π                ¿/      π            ¿/   π
+      d      ¢       a                        ¢         a                        a                           a                                      ¢                ¢                f       f            a    a
+      d                                                          e                           e               a                                      d       d        d                b                    b    b
+                                                                 f                           f               b                                              a
+                                              a         ¢                                                    ¢        ¢                                     a        a
+                                                                 ¢                           ¢                                                      ¢                                 a       a        d        d
+      d                                                                                                               a
+
+
+20    ¿/        π        ¿/           π                     ¿/           π                               ¿                 ø       ¿            ¿                                                          ¿    ¿
+      d         d                                                                                        a                         d            a                                                               d
+      d         d        d        d                                      a           ¢           d       a                e        a            a                                                      d        d
+      f         f        f        f                     d                b                               b                f                     b                a                                     f
+                                                                                                                                   ¢                                          ¢       a
+                         ¢        ¢                                                  a                                    ¢                                                                   e        ¢
+      d         d                                           ¢            d                               a                                                                                                      d
+
+
+      ¿     ¿            ¿        ¿           25        ø            ø                       ¿       ¿           ¿/   π                    ¿/       π       ¿/       π                ¿/      π            ¿/       π
+      ¢     a                                           a                                            ¢                ¢                    f        f       a        a                d       d
+                              e                         a                                            d       d        d                    b                b        b                d       d        d        d
+      d                       f                         ¢        ¢                                           a                                                                        f       f        f        f
+                                                        ¢        ¢                                           a        a
+      a                  ¢                                                                           ¢                                     a        a       d        d                                 ¢        ¢
+                                                                 a                                                                                                                    d       d
+
+
+      ¿/    π                             ¿        30       ø ¿                  ¿                                                   ¿ ¿                         ¿       ¿        ¿       ¿                ø    ø
+                                          a                   d                  a                                                   d                           ¢       a                                 a
+           a         ¢        d           a                 e a                  a                                                 d d                                                    e                a
+     d     b                              b                 f                    b                   a                             f                             d                        f                ¢    ¢
+                                                              ¢                                              ¢        a                                                                                    ¢    ¢
+                     a                                      ¢                                                                  e   ¢                             a                ¢
+      ¢    d                              a                                                                                          d                                                                          a
+
+
+
+
+ Third book of ayres (1605), #5. Encoded and edited by Sarge Gerbode.
+

@@ -1,0 +1,57 @@
+                                                                   Come, you pretty                                                                                           Thomas Campion
+
+
+
+              ø       ¿       ¿               ¿           ¿            ø           ¿           ¿       ¿                                        ¿        ¿            ø           5       ø       ¿       ¿
+              a   a           a               a       b            a               a           a       a                                    a                         a                   a       a       a
+              b   b           a               b       d            a               b           b       a           b    d                   a                         ¢                   b       b       a
+  ë           ¢   ¢           b               ¢       ¢
+                                                      a
+                                                                   b
+                                                                   ¢
+                                                                                   ¢           ¢       b
+                                                                                                       ¢
+                                                                                                                   ¢
+                                                                                                                   d
+                                                                                                                                            ¢
+                                                                                                                                            ¢
+                                                                                                                                                         b            ¢                   ¢       ¢       b
+                                                                                               a                                                                      a
+
+
+
+
+      ¿       ¿   ø               ¿       ¿           ¿                                    ¿       ¿           ø                ø       ¿           ¿        10           ¿           ¿       ¿
+     a        b   a               a       a           a                                    a                   a            a           a           d                     ¢           a       ¢       a
+     b        d   a               b       b           a            b       d               a                   ¢            a           a           a                     a                   e       a
+     ¢        ¢   b               ¢       ¢           b            ¢                       ¢       b           ¢            b           b                                                     e
+              a   ¢                                   ¢            d                       ¢                                ¢           ¢           ¢                                                 ¢   a
+                                          a                                                                    a                                                          ¢           d       ¢
+
+
+
+
+     ¿/       π   ¿       ¿           ¿           ¿            ø               ø       ø                   ¿       ¿/   π           ¿   15              ¿/        π       ø                   ¿       ¿       ø
+                                                                                       a
+     aa           b a                 a           a           a                a       a               ¢ a                          a                   b                 b                   a               a
+     bb           d                   a           b           a                b       b               d a                          b                   b                 d                   a               ¢
+      ¢           ¢ ¢                             ¢           b                ¢       ¢                                                                ¢                 ¢                   ¢       b       ¢
+                  a                                           ¢                                          ¢              a                               d         ¢       a                   ¢
+    d a             a                             a                                    a               ¢                            d                                                                         a
+                                      b
+
+
+
+          ø       ø                       ¿                   ¿/           π       ¿                               ¿/       π               ø                20               ¿           ¿           ^
+                  a
+          a       a                   ¢                   a                        a                               b                        b                                 a                       a
+          b       b                   d                   a                        b                               b                        d                                 a                       ¢
+          ¢       ¢                                                                                                ¢                        ¢                                 ¢           b           ¢
+                                                          ¢                a                                       d        ¢               a                                 ¢
+                  a                   ¢                                            d                                                                                                                  a
+
+
+
+
+Second book of ayres (1613), #18. Encoded and edited by Sarge Gerbode.
+

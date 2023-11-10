@@ -1,0 +1,78 @@
+                                                                           Piante Ombrose                                                                                              Francesco Cavalli
+               ø   ø       ø         æ        ø                       æ/               ø       ø    ø        5         æ        ø            æ/                  ø        ø    ø                æ    ø                æ/
+                   e       ¢         e        ¢                       b                        e    ¢                  e        ¢            b                            e    ¢                e    ¢                b
+                   ¢       a         ¢        ¢                       ¢                        ¢    a                  ¢        ¢            ¢                            ¢    a                ¢    ¢                ¢
+     ò                                        d                       ¢                                                         d            ¢                                                       d                ¢
+     ó             d
+                   e
+                           b         d        e                                                d
+                                                                                               e
+                                                                                                    b                  d        e                                         d
+                                                                                                                                                                          e
+                                                                                                                                                                               b                d    e
+
+                                                                      A                                                                      A                                                                        A
+
+10   ø     ø       ø            ø æ                       ø       ø        ø               ø æ                    ø æ              15       ø æ                      æ/            ø ø ø                      æ       ø
+                                  ¢                               e        ¢               a                      a e                       f e                      ¢             b   ¢                      e       f
+           ¢                    d d                               a                                               ¢ a                       ¢ ¢                                    ¢   a                      ¢       ¢
+           d                    a                                          d               d                                                                         d             ¢                                  a
+           e ¢                  a                                 ¢        a                                                                                                           b                      d
+                                  ¢                                                        e a                    a                                                                  e
+                                                                                                                           e                ¢ a
+                                                                                                                                                                     a             A
+     æ/    20      ø ø          ø             æ/                      æ ø                  æ ø                    æ/       25       æ/              ø    ø ø                       æ     ø               æ/           æ/
+     e             ¢                          ¢                       a                    a                      a                 a                    a a                                                          ¢
+     ¢             ¢                          a                       a e                  a                      ¢                 ¢                    ¢ a                    d ¢                  a                d
+                   d                                                  ¢ d                                         d                 d                                           d ¢                  a                f
+     d
+                                                                                                                  a                                      a
+                           ¢ a                                        a ¢                  e a                                                                       e             ¢ a
+     A             E                          b                                                                                     C                                                                a                 B
+
+30   æ/            æ/           ø    ø ø                              æ    ø               ø        ø ø           35        æ          ø            ø        ø       ø             æ        ø            ø        ø ø
+     b             b                 ¢                                                              a                                                                                                               e
+     ¢                               ¢ ¢                              e                             a a                    ¢ e                           e ¢                                                      ¢ ¢
+     ¢             ¢                   a                              a                                                    d a                           d d                       g                              ¢
+                                                                                                                           ¢                                                       g
+                   e                 b b                              ¢ ¢                                                  a                                                       g
+                                                                                                    e e                                                  ¢ ¢                       e e                            a a
+     A
+      æ/   40          æ    ø             ø           ø           ø                æ       ø             æ/                    ø        ø   ø       45           æ       ø              æ/               ø    ø       ø
+      ¢                                                           ¢                e       ¢             b                              e   ¢                    e       ¢              b                     e       ¢
+      ¢                e              ¢                           a                ¢       ¢             ¢                              ¢   a                    ¢       ¢              ¢                     ¢       a
+      e                h g            ¢                                                    d             ¢                                                               d              ¢
+                                      ¢                           b                d       e                                            d   b                    d       e                                    d       b
+                                                      e                                                                                 e                                                                     e
+      ¢                e
+                                      A                                                                  A                                                                              A
+     æ     ø               æ/   50    ø           ø           ø                ø æ                   ø        ø        ø                   ø æ                   ø æ           55        æ       ø                æ       ø
+     e     ¢               b                                                     ¢                            a                            a f                   a a
+     ¢     ¢               ¢                   ¢                               a d                            a                              ¢                   ¢ a                    d ¢                   ¢ a
+           d               ¢                   d                               a                              ¢                            d                     d                      d d                   a
+     d     e
+                                                                                                                                                                 a
+                                               ¢ a                                                            a                                                    e                    ¢ a
+                           A                                                   a B                                     a                   A C                                                                a
+      æ/             ø ø
+                       ø                       æ/         60              æ ø                  æ/             æ/                   æ/           ø        ø ø              65   æ        ø            æ/                   æ/
+                     f e                       ¢                          e f                  e              f                                          a a
+     ¢             ¢ ¢ a                       a                          a ¢                  a              ¢                    ¢                     ¢ a                   d ¢                   a                d
+     ¢             d                                                                                          d                    d                                           d ¢                   a                ¢
+     d                                                                                         ¢                                   ¢                                                                                  e
+                                                                                                              a                                          a
+                           ¢ a                                            a ¢                  e                                                                 e             ¢ a
+     A                 E                       Q
+                                               b                                                                                   C                                                                 a                 Q
+                                                                                                                                                                                                                       B
+     æ/                    ø ø       70        ø              ø                ø ¿ ¿                         ø ø                           ø ¿ ¿                          ø ¿ ¿                 75   ¿        ¿       ø
+                           b ¢                                ¢                ¢ e f                         e e                           ¢ e e                          ¢   a
+     ¢                       ¢                                ¢                e a f                                                       ¢ e ¢                          ¢ e                        e ¢
+     ¢                     ¢                                                                                 g g                             g                            e g ¢                        ¢
+     d             ê       e b                            b                    ¢               a                                           a
+                                                                                                                                                                                                     g ¢
+                                                                                       Q
+                                                                                       a                     e         e                     e a                          ¢    e                     e
+     A                                                                                                                                                                                 A               A
+ La Calisto (1651). Encoded and edited by Sarge Gerbode.
+

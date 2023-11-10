@@ -1,0 +1,77 @@
+                                                      How eas'ly wert thou chained                                                                                           Thomas Campion
+
+                 ¿               ø        ¿       ¿               ø           ¿       ¿                ø        ¿       ¿                    ø       ¿       ¿           5           ¿ ¿ ¿               ¿
+                 a               a        a       a                                   a                d        d       a                    a               a                       ¢ a
+                 a               a        a       a           b d                     b                d        d       b                    a       a                               d ¢ d               a
+                 ¢               ¢        ¢       ¢           d f                                      f        f                            ¢       ¢       d                       d d a               ¢
+     ë           ¢               ¢        ¢       ¢           ¢ f
+                                                              a   d
+                                                                                                       f        f
+                                                                                                                        a
+                                                                                                                                             ¢       ¢
+                                                                                                                                                             e
+                                                                                                                                                                                     a
+                                                                                                                                                                                       a ¢
+                                                                                                                                                                                                         ¢
+                 a               a        a                     d                                      d        d                            a
+
+
+      ø          ¿       ¿            æ               ø   ¿ ¿                         ø       ø        10       ¿ ¿ ¿                    ¿               ø           ¿           ¿           ø       ¿       ¿
+                                      a                   a a                         a       b                 a   a                                    a                       a           a       a       a
+     ¢       b d                      b                   b a                         b       d                 a   a                                    ¢                       a           a       a       a
+     d       d d                                          d                           d       d                 ¢ d                      ¢               d                       ¢           ¢       ¢       ¢
+     ¢       ¢ a                                                                              a                 ¢   ¢                                                            ¢           ¢       ¢       ¢
+     a       a                        d                   a                           a                                                                  a
+                                                            e                                                   a                                                                a           a       a
+                                                                                              a
+
+         ø           ¿       ¿            ø       ¿       ¿       15              ø       ¿        ¿                ¿           ¿        ¿       ¿                       ø           ¿   ¿               æ
+                             a            d       d       a                       a                a                ¢           a                                                                        a
+      b          d           b            d       d       b                       a       a                         d           ¢    d           a                       ¢           b   d               b
+      d          f                        f       f                               ¢       ¢        d                d           d    a           ¢                       d           d   d
+      ¢          f                        f       f                               ¢       ¢                         a                            ¢                       ¢           ¢   a
+      a                      d                            a                                        e                            a    ¢                                   a           a                   d
+                 d                        d       d                               a
+
+
+         ø       ¿           ¿   20       ø ø                     ¿           ¿       ¿       ¿                 ø       ¿        ¿                   ø           ¿                               ø/      ¿
+                 a           a            a b                     a                   a                         a                a                   b           a       a                       a       a
+                 b           a            b d                     a                   a                         ¢                ¢                   d           a       b                       a       a
+                 d                        d d                     ¢       d                   ¢                 d                d                   d           ¢       b                       ¢       ¢
+                                            a                     ¢                   ¢                                                              a           ¢                   a           ¢       ¢
+                 a                        a                                                                     a                a                                       d
+                             e                                    a
+                                                  a
+
+25    ¿/             π                    ¿               ø           ¿           ¿                ø        ¿       ¿                    ø       ¿           ¿                       ¿   ¿       ¿       ¿
+      a                      a            a                                       d                a        a       b                    a       a                                       a       b       a
+      b          d           b            a               ¢                       d                b        b       d                    a       a       b                           a           a       a
+      d                                                   d                       f                d        d       d                    ¢       ¢       d                           ¢   d       d       ¢
+                                  a       ¢               ¢                       f                                 a                    ¢       ¢       ¢                           ¢           a       ¢
+      a              ¢       d                            a                                        a        a                                            a                               d
+                                                                                  d                                                      a
+                                                                                                                    a
+
+30       ø           ¿       ¿                ø       ¿                                       ø/       ¿                    ¿/       π                               ¿                   ø       ¿       ¿
+         a                   a                b       a       a                               a        a                    a                    a                   a                                   d
+         ¢                   ¢                d       a       b                               a        a                    b       d            b                   a                   ¢               d
+         d                   d                d       ¢       b                               ¢        ¢                    d                                                            d               f
+                                              a       ¢                   a                   ¢        ¢                                                 a           ¢                   ¢               f
+         a                   a                                d                                                             a        ¢           d                                       a
+                                                                                                                                                                                                         d
+
+
+35           ø               ¿        ¿                       ø                   ¿            ¿                            ¿            ¿               ¿                   ¿                       æ
+             a               a        b                       a                   a                                                      a               b                   a                       a
+             b               b        d                       a                   a           b                             a                            a                   a                       ¢
+             d               d        d                       ¢                   ¢           d                             ¢            d               d                   ¢                       d
+                                      a                       ¢                   ¢           ¢                             ¢                            a                   ¢
+             a               a                                                                a                                          d                                                           a
+                                                              a
+                                      a
+
+
+
+
+ Second book of ayres (1613), #2. Encoded and edited by Sarge Gerbode.
+

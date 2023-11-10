@@ -1,0 +1,79 @@
+                                                           I must complain                                                               Thomas Campion
+
+
+
+                 ø       ¿        ¿                    ø       ¿           ¿                                     ¿           ø               ¿       ø       ¿
+                 a       ¢                                                                                                                           d       ¢
+                 a       a        a                b        b          d                        b                a           a                       d       d
+                 b       a        ¢                d        d          b                        b                b           a                       f       d
+    ë            ¢       b        ¢                ¢
+                                                   a
+                                                            ¢
+                                                            a          ¢
+                                                                                                ¢
+                                                                                                d
+                                                                                                        a        ¢           b
+                                                                                                                             ¢
+                                                                                                                                                     f       a
+                                                                                                                                                     d
+
+
+
+
+5       ¿/       π       ¿            ¿                ¿                               ø                ø            ¿           ¿               ø   ¿           ¿
+        a        a       ¢            d                d           ¢                   d                a            ¢
+        b        a       d            d                d                       b       d                a            a       a               b       b       d
+        d                d            b                d                               f                b            a       ¢               d       d       b
+                 ¢       a                             a                               f                ¢            b       ¢               ¢       ¢
+        a                             ¢                                                                                                      a       a       ¢
+                                                                                       d
+
+
+
+
+                         ¿        ø           10   ¿       ø           ¿                   ¿/       π       ¿            ¿               ¿                   ø
+                                                           d           ¢                   a        a       ¢            d               d       ¢           d
+        b                a        a                        d           d                   b        a       d            d               d               b   d
+        b                b        a                        f           d                   d                d            b               d                   f
+        ¢        a       ¢        b                        f           a                            ¢       a                            a                   f
+        d                         ¢                                                        a                             ¢
+                                                           d                                                                                                 d
+
+
+
+
+             ¿       ¿       ¿/           π                                        ¿       ¿        ¿           15                                           ø
+                     ¢       a            a                                        a       ¢        ¢                        ¢               ¢               ¢
+    /                a       a            a                ¢           e           a       a        a                        ¢               ¢               a
+    /                a       b            b                d                               a                                 e       f               e       a
+    /                b
+                     ¢
+                             ¢                             e                       ¢       b
+                                                                                           ¢
+                                                                                                                             e               e               b
+                                                                                                                                                             ¢
+
+
+
+
+        ¿                                              ¿                   ¿           ¿        ¿                                    ¿                       ø
+                 a                b                    a                               b        a       a                            b       a               a       /
+                 a       b                     a       b                   b           d        a                                    d       a               ¢       /
+                 a
+                 ¢                a
+                                                                           ¢
+                                                                           d
+                                                                                       ¢
+                                                                                       a
+                                                                                                b
+                                                                                                ¢
+                                                                                                                 ¢                   ¢
+                                                                                                                                     a       ¢
+                                                                                                                                                     b       ¢       /
+                                                   d                                                    d                                                    a
+
+
+
+
+Fourth book of ayres (1617), #17. Encoded and edited by Sarge Gerbode.
+

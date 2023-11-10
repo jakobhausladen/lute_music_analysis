@@ -1,0 +1,62 @@
+                                         O what unhoped for sweet supply                                          Thomas Campion
+
+
+
+
+             ¿                       ¿        ¿              ¿        ¿       ø           ø   ¿       ¿               ¿            ¿   ø
+             b       a                                       b        a       b           b   b
+             b       b       d       ¢        d             [d]       b       b           b   b       d               d            ¢   d
+             d               d       d        d             [d]               d           d   d                       d                d
+    ë        d
+                     d
+                             a       ¢
+                                     a
+                                              a              a
+                                                                      d
+                                                                              d           d   d                       ¢
+                                                                                                                      a
+                                                                                                                                       a
+                                                                                          b   b       d
+                                                                                                                                       a
+
+5       ¿                        ¿        ¿             ¿         ¿       ø           ø       ¿       ¿                   ¿        ¿   ø
+        b        a                                      b         a       b           b       b
+        b        b       d       ¢       d             [d]        b       b           b       b       d               d            ¢   d
+        d                d       d       d             [d]                d           d       d                       d                d
+        d                a       ¢       a              a                 d           d       d                       ¢                a
+                 d               a                                d                                                   a
+                                                                                      b       b       d
+                                                                                                                                       a
+
+            ø        ¿        ¿          10       ¿          ¿        ¿           ¿               ¿                           ¿/       π
+            b        b        a                   a                   a           a               b               a           b        b
+    /       d        d        b                   a                   ¢           b                                           b        b
+    /       d        d        d                   d          ¢        d           d                       b                   d        d
+    /       a        a
+                              a
+                                                  ¢
+                                                                      a
+                                                                                                                              d
+                                                             a                                                                         b
+
+
+                         ¿       ¿       ¿              ¿                         ¿                           ¿                        ø
+                a        b       a                                a                                                            d       ¢
+        d                b       b       d             ¢                              d                       d       ¢                d   /
+                         d               d             d                  b       d                           d                        d   /
+        b
+                         d
+                                 d
+                                         a
+                                                       a
+                                                                                                              ¢
+                                                                                                              a
+                                                                                                                                       a   /
+                         b                                                a       b           d
+                                                                                                                                       a
+
+
+
+
+Second book of ayres (1613), #4. Encoded and edited by Sarge Gerbode.
+

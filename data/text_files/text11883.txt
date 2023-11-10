@@ -1,0 +1,71 @@
+                                                                            7. Je file                                                     Philip van Wilder
+              ¿    ¿/ π ¿               ¿                      ¿  ¿                               ¿   5              ¿     ¿ ¿ ¿           ¿           ¿        ¿ ¿ ¿
+              d    ¢ ¢ ¢                d¢ a                      a          ¢d¢ a                                                                                  a
+                   aaa                  a    e ¢               fe                  d                      ¢ ad¢d           aa ¢                                 a
+     ò                                       f                 f db          a     b                      d    f           b d             da ¢d                    b
+     ô        ¢                                                                                                                            e   e                ¢ ¢
+                                                                                                                                                                  a
+
+     ¿/   π   ¿   10   ¿/ π         ¿     ¿/ π    ¿              ¿                                ¿       ¿               15             ¿         ø/           ¿ ¿ ¿
+     ¢    ¢   ¢        h f          ¢     d¢      a              a           ¢d¢ a                ¢       d¢ a ¢ a                 a a             a
+     a    a   a                     a     a                e ¢ e a                                a       a                              e         a            a a ¢
+     a    a   a           a                  d    b        a    db           d                    a            d                   db a a          ¢            b
+                       f            b     ¢                      ¢           e                            ¢                            ¢           ¢                ¢
+     ¢    ¢   ¢           a         ¢                      ¢                 f   e                ¢            a                   a ¢ ¢                            a
+                       d                  a       a                                                                                                a            ad
+
+     ¿                          ¿   ¿        20   ¿/ π     ¿       ¿ ¿                                        π                                                       ¿
+                                  a a                a     ¢       dd ¢ a
+     d¢ a ¢ a                   aa                d                a ¢           d  d¢ a                      a ¢ a ¢ a                                aba
+     a                          b   e             f        d       b             fd d                                   e ¢ e a ¢ e                        db
+          ¢                     ¢ a               e        a       ¢ ¢ e         f fe ¢                       ¢             e                          a     ¢
+     ¢    a                         e             ¢ e                                                                                                  ¢
+                                                                                                              a     a       ¢                          d   ¢ a
+
+25   ¿ ¿ ¿                                             ¿                                      ¿                           30       ¿ ¿ ¿       ¿ ¿ ¿            ¿   ¿ ¿
+                                                        a                                             a     a                                                   ¢   ¢ a
+     dd ¢               a ¢ d     d                    da                    e             e          a     a ¢                    ddd         d¢ a             a   a
+     bfd                a       b                      db                            f     f          b a bdb                      a af        f b              a   a
+     af ¢               a                                                                e e          ¢     ¢                      a f         e e ¢                  ¢
+        a               ¢     a                                      a   ¢                 ¢                                                   ¢                ¢
+     dd                         d                      ¢ a ¢ d                                                                        d
+
+                                        ¿ ¿ ¿     35                 π               ¿ ¿ ¿            ¿ ¿     ¿     ¿    ¿ ¿                               40   ¿ ¿ ¿
+                        a                                                                a            a a     a     ¢    ¢                 a
+     ¢ a ¢ d                ¢           e e                                              a                    a     a      a        ¢ a ¢ da                    e e e
+     d                                  f b                 a b a                    a a b            dd      b     a    db         d      b                    fff
+                        ¢                              ¢ a ¢ ¢ ¢                     b b ¢            ¢ ¢     ¢          e          ¢      ¢                    e   e
+                                            ¢          e                             ¢                a a           ¢    f          a                           ¢ ¢
+                                            a          f      a                                                            d                       a
+
+                                        ¿ ¿ ¿                                ¿ ¿ ¿       45   ¿ ¿         ¿   ¿    ¿ ¿         ¿
+     a        a ¢da                     ¢ ¢                                      a            a a         a   ¢                                          ad
+          d                             a                                        a                        a   a    dd      ¢ a a ¢               e a ¢ e a
+                                            a          b a a b               a a b            dd          b   a    a b       bd                  a       b
+     ¢                 ¢                    b          ¢ ¢     ¢             b b              ¢ ¢                          ¢ ¢
+                                            ¢                                ¢                a a             ¢    ¢ ¢     a                     ¢
+                                                       a     a                   a                        a          d                                   a
+
+                              50    ø ¿       ¿/ π ¿           ¿                 ¿¿                        ¿ 55   ¿                            ¿ ¿ ¿        ¿         ¿
+     ¢a                             ad        ¢ ¢ ¢            d¢a                a                   ¢d¢a
+        ef e                        a       /aaa               a   e ¢        e e                          d ¢ ad¢d                            aa¢
+     d f                                    /                      f          f db                    a    b d    f                            b d          da ¢d
+        e
+     a ¢ ¢
+                                    ¢ ¢     /                                                                                                               e   e
+                                    a
+
+     ¿ ¿ ¿             ¿/ π   ¿ 60 ¿ ¿      ¿          ¿/ π ¿             ¿                    ¿                  ¿              ¿   ø ¿   ø/
+         a             ¢ ¢    ¢ hf          ¢          d¢ a               a              ¢d¢ a¢
+                                                                                                                         65
+                                                                                                                  d¢ a¢ a a a      W ad aX
+     a                 aa     a             a          a            e ¢ e a                    a                  a              e a / a
+         b             aa     a      a                   db         a adb                d     a                      d     dba a ¢ / ¢
+     ¢ ¢                           f        b          ¢                  ¢              e                        ¢            ¢     ¢ / ¢
+                       ¢ ¢    ¢      a      ¢                       ¢                    f   e ¢                      a     a ¢ ¢
+       a                           d                   a a                                                                           a     a
+
+
+
+ GB-AB:National Library of Wales ms 1G i.27:Brogyntyn lute book (1595), p.14. Encoded and edited by Sarge Gerbode.
+

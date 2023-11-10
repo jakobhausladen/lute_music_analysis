@@ -1,0 +1,119 @@
+                                                    54. Non è pena maggior
+                                           Pigliasi la nota al 1ro tasto del canto                                                                                Cosimo Bottegari
+
+
+    % 0 00
+         0                         ¯
+                                   ˆ                                                                                ˆ ˆ
+                                                                                                                      Ë/                              ˆ
+                                                                                                                                                      ˘            ˆ
+                                                                                                                                                                   ¯                ˝
+                                                                                                                                                                                    ˜
+               Ω        Á
+                        ˝              ˆ
+                                       Ë               ˆ
+                                                       Ë        ˆ
+                                                                Ë           Ë/
+                                                                            ˆ                È
+                                                                                             ˆ                ˆ ˆ ˆ                                                     ˆ
+                                                                                                                                                                        Ë
+                       Non è pe-       na mag- gior,                                                                                              cor-            te- si_A- man-
+                        Et quan- tun- q'el- la_il cor                                                                                             vegg'            ai sem- bian-
+                           ø       ø                    ø                    ¿       ¿                        ¿           ¿           ¿       ¿                   ¿         ¿       ¿ ¿
+                                                                                                                                                                  a                 b a
+                        d          d                   b                    b                                 d           b           b d                         a     b           b
+                        d          e                   b                    d                                 e           d           d d                               d
+               ë        a
+                                   b                   d
+                                                                                     d
+                                                                                                              b
+                                                                                                                                      d a                         ¢     d
+                                                                                                                                                                                    d
+                                                                            b                                             b
+
+
+
+
+    %                                                                                            ˆ/
+5
+         0                                                                                       ¯                ˆ
+                                                                                                                  ˘
+        0 00    ˝
+                ˜ ß                        Ë
+                                           ˆ       ˆ
+                                                   È        ˆ
+                                                            ˘           ¯
+                                                                        ˆ        ¯
+                                                                                 ˆ                                        ˆ
+                                                                                                                          ¯       Ë
+                                                                                                                                  ˆ               Á
+                                                                                                                                                  ˝           Á
+                                                                                                                                                              ˝         Á
+                                                                                                                                                                        ˝           ˆ
+                                                                                                                                                                                    ¯       Ë
+                                                                                                                                                                                            ˆ
+                ti,                    voi che do- na- sti_a duo'                                             be- gl'oc- ch'il co-                            re, che quan- do
+                ti                     non si muov' a pie- tà                                                 di chi si mo-                                   re: Gran- mi- se-
+                ø ¿ π π                    ¿       ¿                    ø                        ¿ ¿                      ¿       ¿               ¿ ¿ ø                 ø           ø
+                b                                                       a
+                b b b                      d       d                    b                        d d                      d       d               d ¢ d                 d           d
+                d d d                      d       d                                             e e                      d       d               d   d                 d           e
+                  d d ¢                    a       a                                                                      a       a                   a                 a
+                                                                        d                        b b                                              a                                 b
+                b
+
+
+
+
+    % 0 00
+10
+         0                                                                  Ë/
+                                                                          ˆ ˆ                                     ˆ
+                                                                                                                  ˘           ˆ
+                                                                                                                              ¯                           ˝
+                                                                                                                                                          ˜             ˝
+                                                                                                                                                                        ˜ ß
+                 ˆ
+                 Ë             ˆ
+                               Ë       ˆ
+                                       Ë/              È
+                                                       ˆ            ˆ ˆ ˆ                                                                 ˆ
+                                                                                                                                          Ë
+               l'huo- mo_al- la                                                                                   sua     Don- na_in- nan-                              ti
+                 ria'l suo_A- mor                                                                                 te-     ner' ce- la-                                  to
+                   ø                   ¿       ¿                    ¿            ¿               ¿        ¿                   ¿           ¿               ¿ ¿           ø ¿ π π
+                                                                                                                              a                           b a           b
+                b                      b                        d                b               b d                          a           b               b             b b b
+                b                      d                        e                d               d d                                      d                             d d d
+                                               d                                                 d a                          ¢           d                               d d ¢
+                d                                               b                                                                                     d
+                                       b                                         b                                                                                      b
+
+
+                                                                                                                                                                                        ≠
+    %                                                                                    ¯/
+                                                                            15
+         0                                                                               ˆ                            ˆ
+                                                                                                                      ˘
+        0 00           ˆ
+                       Ë       È
+                               ˆ       ˆ
+                                       ˘            ¯
+                                                    ˆ           ¯
+                                                                ˆ                                                             ¯
+                                                                                                                              ˆ           ˆ
+                                                                                                                                          Ë                        Á
+                                                                                                                                                                   ˝                    ˝
+                                                                                                                                                                                        Á
+                    far pa- le-                     se non                           poss'                             il suo do-                                 lo-               re,
+                   e,_a- mand' al-                 trui, non                          es-                             ser pun- to_A-                              ma-               to.
+                       ¿           ¿                ø                                    ¿            ¿                       ¿           ¿                        ¿            ¿       ^
+                                                    a
+                       d       d                    b                                    d            d                       d           d                        d            ¢       d
+                       d       d                                                         e            e                       d           d                        d                    d
+                       a       a                                                                                              a           a                                             a
+                                                    d                                    b            b                                                            a
+
+
+ I-MOe:Biblioteka Estense mus.c.311:Bottegari Lute Book (1573), f. 21va. Encoded and edited by Sarge Gerbode.
+

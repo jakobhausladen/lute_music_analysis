@@ -1,0 +1,66 @@
+                                                                   Go, happy man                                            John Coprario
+
+
+              ¿               ¿/               π           ¿                       ¿        ¿       ø                       ø/               ¿
+                              a                                                    a        a       b                       a            a
+                              b                            d                       a                d                       ¢            b
+                              ¢                a           ¢                                ¢       ¢                       ¢            ¢
+                                                           d                       ¢                a
+                                                                                            e                               a
+
+
+                      ¿                    ¿                   ¿           ¿           5                ¿           ¿                ø
+                      a                                                    a
+                      a                    d               d               a                            ¢                        a
+                      b                    d               f               b                            f           e            a
+                      ¢                    e               f               ¢                            e                        b
+                                                                                                                                 ¢
+                                                                                                                    ¢
+
+
+              ¿               ¿/               π           ¿                       ¿        ¿       ø                       ø/               ¿
+                              a                                                    a        a       b                       a            a
+                              b                            d                       a                d                       ¢            b
+                              ¢                a           ¢                                ¢       ¢                       ¢            ¢
+                                                           d                       ¢                a
+                                                                                            e                               a
+
+
+                      ¿                    ¿                   ¿           ¿           10               ¿           ¿            ø
+                      a                                                    a
+                      a                    d               d               a                            ¢                        a               /
+                      b                    d               f               b                            f           e            a               /
+                      ¢                    e               f               ¢                            e                        b
+                                                                                                                                 ¢               /
+                                                                                                                    ¢
+
+
+                  ¿                                                ¿           ¿                ¿           ¿           ¿                ¿
+
+     /                             a                                                            d                       b
+     /                             b                                           d                            b                            a
+     /                             ¢                   a
+                                                                   d                            ¢                       a
+
+
+
+                          ¿                        ø                   ¿                        ¿               ¿                ø
+                                                                                                                                 a
+                          a                        d                a                           a               a                a
+                          b                        d                b                           a               b                b
+                                                   e                ¢                           b               ¢                ¢
+                                                   f                                            ¢
+                          d                                                                                     a
+
+
+15                ø                    ¿                   ø               ¿           ¿/           π                            ^
+                  d                    d                   a               b           a            a                            a               /
+                  d                    f                   b               b           a            ¢                            ¢               /
+                  e                    f                                   ¢
+                                                                           a           ¢
+                                                                                                    ¢                            ¢               /
+                                                           d                                        a                            a
+
+
+ The masque of squires (1614), #1. Encoded and edited by Sarge Gerbode.
+

@@ -1,0 +1,74 @@
+                                                                   O passi sparsi                                                                               Sebastian Festa
+                     æ               ¿ ¿ ¿ ¿                ¿ ¿ ø               ø ¿ ¿             5           ¿ ¿                                               ¿ ¿
+                                                                                                                                                        a
+                     a               a   b d               d a a                a a a                                  a a     b                          a     a
+                     b               a d b f               d b a                a b b                                  a b   a b                        d     d a a
+Lute        ë        ¢
+                     ¢
+                                       e
+                                     ¢ f d
+                                                           a ¢
+                                                               ¢                                                       ¢
+                                                                                                                         ¢ ¢ ¢                          a a ¢
+                                                                                                                                                            d   ¢
+                     a                     d                                            a a
+                                                                                A
+     ¿ ¿                     ¿               ¿ ¿ ¿ ¿                                                              10       ¿ ¿ ¿ ¿                  π                       ¿ ¿
+                                                     a             a     b d a                                             a
+     d b   a                             a a         a             b   a b d     d                                         a a d b              b a b a   a a
+     e ¢ ¢   ¢                           a a                       ¢ ¢ ¢   a a ¢                                               e ¢              ¢       ¢ a a
+     f   d                               ¢ ¢         ¢                         d                                           ¢   f                d         ¢ ¢
+
+
+     ¿ ¿ ¿ ¿                     ¿ ¿ ¿ ¿               ¿                                15   ø ø                        ¿ ø ¿           ø ¿                            ¿ ¿ ¿ ¿
+
+                                                                                                  b /
+                                                           b         a                                                 d   d            a a                            a a
+                                                                                                  ¢ /
+     b   b a                     b b a b              d            b a     d                 b                         b b a                b d                        a b d a
+                                                                                                  ¢ /
+     ¢ ¢ ¢ a                     ¢ ¢ ¢ a              ¢              e ¢ e                   ¢                         a                ¢ a ¢                              ¢ a
+         ¢ ¢                         ¢ ¢              a              ¢                       ¢                                            ¢ d                          ¢   a ¢
+                                                                                             a    a                    d                a                                d
+                                                                                                                           a
+             ¿                                        20   ø ¿ ¿               ø ø                ¿           ¿        ¿                ¿       ¿       ø          ¿    ¿   ¿       ¿
+             a                       a                     a                   a a
+                             e               e ¢ e             a                                  d d b b                               a   a                        b a a
+                     a                                     b a                 d d                a b d   b                             a d a                      b d a b
+     ¢ ¢                                                                                                                                  ¢                        ¢
+     d               ¢                                       ¢                 a                  ¢   a                                 ¢ d ¢                      d a ¢
+                                                           a   d                                                                                                         d
+
+25   ¿/             π ¿ π                     ¿ ¿ ¿/ π             ¿ ¿                                ¿ ¿ ¿ ¿                      ¿ ¿ ¿ ¿                  30    ¿     ¿ ¿
+                                                                                                                                                                  a
+                                             d a b a               d b d     b                        a a                   d      d d d d                        a a d b b
+     d     a b a                             b   b                 d b d b d                          b                     d      d d d f                              d d
+     ¢ a ¢ a                                                       a ¢ a   a                                                a      a a a                          ¢
+     a                                           d                                                                                       ¢                              a a
+                                             d                                                    d d                                                               a
+                                                                                    a
+     ¿ ¿ ¿ ¿                         ¿ ¿ ¿ ¿               ø/ ¿              ¿ ¿ π                    ¿       35           ø ø      æ               ¿ ¿ ¿ ¿                 ø/ ¿
+     a a            a                a a a b               d d             b a a                                           a a     d            d d a a                     a a
+     a a            a                a a b b               d d             d a   d b d                                     a a     f            d d b b                     a a
+                                         ¢ ¢               a a                 ¢     ¢                                             f            a a ¢ ¢
+     ¢ ¢            ¢                ¢ ¢                                   a ¢ d                                           ¢       f                                        ¢ ¢
+                                                                                                                                   d
+                                                                                                                             A
+     ¿ ¿ ø          40       ø ø              ø ¿ ¿            π              ¿ ¿ ¿                                    ¿ ¿                  π                                       ø
+     a   a                   a b              b   a                   a                              d d                                    d             a
+     b d a                   b b              b d b         d     d b                            d   b   a                                  a b a b a   a b
+     ¢ ¢                                        e           f e ¢ e   a                          ¢ e   a   ¢                                a         ¢   a
+       d ¢                     d              d f           f     f                              a
+                             a                    d                 d d                              d                                                    d
+                                                                                                                                                  a
+
+45   æ          ¿        ¿       ¿       ¿       ø    ø             ø/ ¿            ¿    ¿    ¿           ¿        50       ø/ ¿        ¿       ¿           ¿                   æ
+     d         d d a b                           d                       a      a b a                                      a a          b a b a                                 a
+     b         a a b b                           d                       b      b d a                                        b          d   d   d                               b
+     a         a a ¢ ¢                           a                       ¢      ¢                                          ¢            ¢                                       ¢
+                                                                                  a ¢                                                   a   a                                   ¢
+     d                                                                                                                     a a            d                                     a
+                                                      a                                               A
+
+ e capitoli (1526), %1. Encoded and edited by Sarge Gerbode.
+

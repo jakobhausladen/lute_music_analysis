@@ -1,0 +1,76 @@
+                                                          Cara la vita mia
+                                                                Part 1                                                                                Giaches de Wert
+
+              ø       ¿       ¿               ¿       ¿                                                                                       ¿       ¿       ¿       ¿
+              h       h       f               d       ¢       a                                   a
+              i       i       h               f       e       a                                   a                                           e               a       e
+              i       i       i               f       f       b       a       b           d       b                                           f       f       b       f
+     ë        f       f
+                              f
+                                              ¢
+                                                      ¢                                                                   a
+                                                                                                                                              e
+                                                                                                                                              ¢
+                                                                                                                                                      e
+                                                                                                                                                              ¢
+                                                                                                                                                                      e
+                                                                                                                                                                      ¢
+                                                              a                                   a       ¢       d
+
+
+      ¿                                   ¿                       5       ¿                       ¿                           ¿                           ¿
+      a       a                           ¢       ¢                                                                                       a               ¢               a
+      a       a                           a       a       a               a       a       ¢       d                           d           a       ¢       d       d
+      b       b                           a                               b       b               d       d                   f           b               f
+      ¢                                   b                               ¢       ¢               e       e       e           f           ¢               e       e
+                                  a       ¢       ¢                                               f                                                       ¢       ¢       e
+              a       ¢       d
+
+
+                                  ¿                               ¿                       ¿                                                               ¿
+      ¢                           ¢       ¢       d               f       f       f       h       d                       ¢               ¢               a               a
+                      d           ¢       d                       f                       f       a       ¢               e   f                   e       ¢       ¢
+              a       d       b   d       d       f               h       h               f       b       d                               f               d       d
+      a               a       ¢   e       a                                                       ¢                       e   f           e       e
+                                                                  h       h               h                               ¢               ¢
+                                                                  f       f
+
+
+10       ¿        π                       ¿
+         e        e       ¢       e       f       f                           f                       h               a                               a       ¢       a
+         f                                f                   h       i                               f               a       a           ¢                           ¢
+         f                                h                                                           f       f       ¢                   d           d       d
+         ¢        ¢                                                                                   g
+                                          a           a                                                                                   a
+                                                                                                      a               a
+
+
+                      ¿                                       ¿                                                                           ¿
+                      a                 [a]                   ¢       e               f                       a           h               a               a       ¢       a
+      e               a   ¢           d [a]                   a       a       a       ¢                       ¢           f               a                               ¢
+      f       d       ¢   d       d   d [b]                   a                               d       d                   f               ¢       d       d       d
+      e               ¢   ¢           e [¢]                   b       ¢                               ¢                           h       ¢       ¢       ¢
+      ¢                   a           f                       ¢                       a               a                   h                       a
+                                                                                                                          a               a
+
+
+15                            ¿
+                              a                                       h                               h           h       f           e                   f
+          e                   a       ¢       ¢           d                                   a                   a       ¢           f           f       f           f
+          f       d           b       d       d           d           f                       a                                       f           f       h
+          e                   ¢       ¢       ¢           e           f                                                               ¢                               h
+          ¢                           a       a           f           h                       g                   h       a                               h
+                                                                                              h                   a                                       f
+
+
+                                                                          ∫                                                                                       ^
+                      h               ¢           e           e           f           e           f       h           f       e                                   e
+          h           f       e                   f                       f                                                                   h                   f
+          i           f       f       f           f           f           g                                                                                       f
+          h           f       e                   ¢                                                                                                               ¢
+          f           h       ¢       ¢                                   a
+                                                  a                                                                                                               a
+
+
+ Emanuel Adriaenssen Pratum Musicum (1584), #22a. Encoded by Alain Veylit; edited by Sarge Gerbode.
+

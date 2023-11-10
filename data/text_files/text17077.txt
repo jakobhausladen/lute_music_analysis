@@ -1,0 +1,74 @@
+                                                                       60. Lieb ist subtil
+                                                                                           (Thomas Sporer)                                                                                              Hans Newsidler
+
+              ø   ¿       ¿               ¿                        ¿       ¿                   ¿                    ¿       ¿               ¿                   ¿           ¿           5       ¿                   ¿           ¿
+                                                                                               a
+                                          a                 d d                                        d b a d                              b     a                                               d   a b
+                                                                                                                                              d   b b                                           d b a   b
+     ë        ¢
+                  a a                     ¢ a
+                                                          d ¢
+                                                              a
+                                                                                               d ¢ a ¢
+                                                                                                                                            ¢
+                                                                                                                                            a
+                                                                                                                                                                                                      ¢ ¢
+                                                                                               a     d d                                      d ¢ a d                                           ¢ d   a
+
+
+      ¿       ¿                       ¿                   ¿                            ¿                                ¿           ¿       ¿                                       ¿       ¿
+        d d a                         ¢                   d b              a             b                                          a   a                                           b d   d a                                   ¢
+      d                                                                                d                                a           b d b                   a                         a
+      e a ¢                                               a                            a ¢                                                                                          ¢ a ¢
+      f                               a                   ¢ a                            d ¢                            a                                                           a   a
+                                                                           d                                                        a   ¢ d
+
+
+10   ¿                ¿       ¿               ¿                        ¿           ¿               ¿                    ¿       ¿               ¿                       ¿           ¿               ¿                   ¿           ¿
+                                                                                                   a
+     d b a                                      a                   d d                              d b a d                                    b     b a                                                  b b
+           d                                                                                             b b                                    d b a   b                                           d
+     a     a a                                ¢ a                     a                            ¢                                                  ¢ ¢                                           e      ¢
+     ¢                                                            d ¢                              d a   ¢                                      a     d                                             f d ¢ [a] d
+                                                                                                                                                                                                                        1)
+
+
+15    ¿               ¿       ¿                   ¿       ¿        ¿                                   ¿    ¿                                               ¿       ¿           ¿       ¿                   ¿   ¿       ¿           ¿
+                                                                                                                    a
+     d b a   b                                  a   a                                                  b d   d a ¢                                      d                       a                           b                   d
+           d                                  a b d b a                                                                                                                 b
+     a       ¢                                      a                                                  ¢ a ¢                                            a               ¢                                           a
+     ¢     a                                  a                                                        d ¢ a                                                        ¢                                       a a                 ¢
+       d                                        d ¢                                                                                                                   d a
+
+
+20    ¿       ¿                                                                                                                         ¿                       ¿           ¿                   ¿           ¿   ¿
+                                                                                               a
+     a            b                                                        d                               d b a                        b d b d                                                             d   a
+       b                                                      d                                                                                                             d                   a             b b a
+       ¢                                                      a                                                                                                             a                               a
+         a                                                      d ¢ a ¢                                                                 a                                                                     ¢
+     d a   d ¢ a                                              ¢       a                                                                                         ¢                                               d
+
+
+      ¿       ¿   ø   25          ¿       ¿           ¿       ¿                ¿           ¿       ¿                            ¿                       ¿                                       ¿           ¿   ¿
+       a b                                d b d                                  d d b a                                                d   b d                                                   d d b a
+     b                            d                                            b d b                                            d           d b a                                               b a
+     ¢ a ¢                        a           a                                  a   a                                          a                                                               ¢ a   a
+     d ¢ a                                                                     d                                                        d ¢ a                                                   d
+                                                                                   d                                                                                                                d
+
+
+          ¿                           ¿           ¿           30           ¿               ¿           ¿                                            ¿                                   ¿               ¿               ^
+                          a           b           d                                    b               d        b           a                               d                                           ¢                   d
+          d       d                               d                        b           d                                                        d           b               a                                               d
+          a                                                                                                     a                               a                                       ¢                                   a
+                  d       ¢           a                                                a               ¢                                                                                a
+                                                                                                                                                            d
+
+
+
+ 1) Note added by editor [DT] to fit imitative pattern.
+
+ Ein Newgeordent Künstlich Lautenbuch, v.1 (1536), f.s1. Encoded by Douglas Towne; edited by Sarge Gerbode.
+

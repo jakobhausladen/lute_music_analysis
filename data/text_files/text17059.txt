@@ -1,0 +1,141 @@
+                                                                 49. La Morra
+                                                                     (Heinrich Isaac)                                                        Hans Newsidler
+
+                 ø ø                  ø ø            ø                                   ¿
+                 h h                  h h            f f                                 d ¢ a                   d             a
+                 a a                  a a            ¢ d a ¢ d                                               d ¢ a       a ¢ d
+                                                     a a                                                           a b d
+     ë                                h
+                                        f                                                ¢                       ¢
+                 h       h
+
+5                             ¿                          ¿ ¿                             ¿ ¿ ¿                                                 ¿ ¿
+     ¢ a                          a                      a h         h f d               ¢ d a f d ¢ a                                     d ¢ a ¢
+                 e ¢ e                e ¢ e                      a                       a   ¢                                     d ¢ a
+                     a                                                 a                       a                                         d     d
+                                                         ¢ f             ¢               a ¢                                               ¢ a   a
+     ¢               ¢                                                                       e                                                 e
+
+
+         ¿                                                                    10     ¿       ¿       ¿       ¿                                   ¿ ¿
+                 d                                           a   ¢       a                   a               ¢            d    ¢    a    ¢   a
+     d                                    a      ¢   d                               d           ¢                                             d ¢ d
+     f                   a    b d                                                    b           d                        a                  a b d f
+       ¢                                                         a                                 a
+     ¢                                                                   e           ¢       e   a                                           e ¢ a
+                                                                                                                                                   d
+
+                                                                               ø ø               ¿ ¿                               15                     ¿    ¿
+         a                            a              a                         a a               a   a
+     a                                    e ¢            e ¢ e                                                                          a       a ¢ d ¢
+       d b                     a                                                                                         a b d
+                                                                               ¢ ¢               ¢ ¢ ¢
+                             a ¢                                                                                                                  a ¢ a
+     d ¢ d                                                                     a a               a                         a            a ¢ d
+
+                     ¿                                   ¿ ¿
+           a                                                                                                             a ¢ d          d ¢ a d ¢ a ¢
+     ¢ a a a   a                                         a d d ¢ a                       a   a ¢ d
+             e   e ¢ e                                                         d         b d                                       d
+     ¢   a                                                                               ¢                                         a
+           e                                             ¢       ¢
+
+
+     ¿                   ¿                  20   ¿           ¿ ¿             ¿ ¿ ø                                   ¿             ¿ ¿ ¿ ¿       ¿ ¿ ¿ ¿
+     d                   d                                                                       d ¢ a                 ¢           d a           a     h
+                                                                                             b                       d a                 e
+             b       d b a                         a                                                                     d         b   a
+                           ¢                     a             ¢           b ¢                                         a           ¢ ¢           ¢            ¢ f
+                 a ¢ d                           ¢ ¢ a                                                               ¢               d ¢                      a
+     d d                                                     d a         ¢   a                                                                        a
+
+25           ¿ ¿                          ¿ ¿ ¿ ¿                ¿ ¿                             ¿ ¿         ¿                          ¿ ¿ ¿
+     h f d ¢ h f                            d   ¢                a f f d ¢ a                     d ¢ d ¢ a   a                                ¢ a ¢ d
+                                          ¢   a                  ¢                               a         d                              d ¢
+               a                                                     d                               d                                  b   d
+         ¢   f                              ¢   a                  e e ¢ a                       ¢ a                                          a
+                                                                 e         e                                 e                            ¢ a
+     a
+
+30                                                                                                                                                ø       ¿    ¿
+     ¢ a     ¢   a
+         d ¢   a ¢ a ¢ d                                             ¢ a ¢ a                     a               a             a                  a            a
+     a       d                                                                               e                           e ¢       e ¢ e
+     a       a
+       e ¢ a     e                                                   a         ¢                         e                                        ¢ ¢
+
+
+
+ Ein Newgeordent Künstlich Lautenbuch, v.1 (1536), f.p1v. Encoded by Douglas Towne; edited by Sarge Gerbode.
+                         ¿                          ¿ ¿ ¿ ¿                   35       ¿                                          ¿ ¿ ¿ ¿                ¿            ø
+     ¢         a ¢ d f h k                            h   g                            h f d ¢                                      f h f                h f d        ¢
+     a ¢ d ¢ d           f                          a d                                a                                          d   d                  d            d
+                                                        h                                                                         a
+                                                                                                                     a ¢              f e                f e ¢        a
+     ¢                                                                                          ¢           ¢ e
+
+
+                     ¿ ¿                                                      ø        40       ¿ ¿ ¿ ¿                                      ø           ¿ ¿ ¿ ¿
+           a d ¢ a ¢ d ¢                                 d ¢ a                                      a                         a
+     a ¢ d           a                              a                d                            d   d                               d ¢ a                a b a
+                                                                     f                          b   b                     b
+             a       ¢ a                            ¢            a                                                                                       ¢   ¢
+                                                                   e ¢                            ¢ d ¢                   d           ¢ a                    a
+                                                                                                                                             d             d   d
+
+     ¿               ¿                 ¿                     ø   45       ¿        ¿        ¿       ¿            ¿ ¿ ¿ ¿               ¿ ¿ ¿
+                                                                                                                   a   ¢                 d   f d ¢ a
+     b a                               a d ¢ a ¢ d                        a ¢   d                                                      a   ¢
+         d b b d                                                              a                                  b   d
+     ¢     ¢                           ¢         a                        ¢                                            a                 ¢
+     a                                   a       ¢                          a   ¢                                  e a                 ¢   e a
+       d ¢ a a ¢                       d                                      ¢                                  d
+
+                                                                                                ¿ ¿ ¿ ¿              50   ¿     ¿ ¿                  ¿ ¿ ¿ ¿
+                                            d ¢ a d ¢ a ¢                                       d   i                     h f d ¢ h                  d f ¢
+     d                                                                                                                            d                  f ¢ d a
+                                    a b d                                                       b     a
+                         a ¢            a                                                                                 f                              a ¢
+     ¢ a ¢ d                                                                                      ¢ a                         a ¢                      a
+                                                                                                d                         d
+
+     ¿ ¿ ¿           ¿             ¿ ¿ ¿    ¿       ¿ ¿ ¿ ¿                   55        ¿                 ¿                                          ¿    ¿   ¿       ¿
+     a f ¢           d             a        d       a ¢                                   ¢ a             a                                                           a
+         d           a             ¢   d            ¢   d                               ¢     d ¢ d a ¢ d                                            ¢   a
+       d                             d      b         d   ¢                               a               ¢                                          d a
+       e a           ¢               a      ¢         a                                   a                                                                ¢
+     e                             e   ¢            e   ¢ e                             a         ¢       e                                          a ¢   e
+                                                                                                                                                         e
+
+                         ¿                                                ¿                                                           ¿ ¿
+                                                         a            d ¢ ¢ ¢ a ¢ a   a                                               ¢   a
+     d ¢ a ¢ d a       a ¢ d                                                        d                                                   a a   a
+     d       a b a b d                                                a   d b                                                         a     e   e ¢ e
+                                                                          a ¢
+     a       ¢                                                                                                                          ¢ e
+               a
+
+60   ¿ ¿                               ¿ ¿ ¿    ¿                    ¿ ¿                                             ¿
+       d     ¢ a                       d ¢ a    d        f d ¢ a ¢ a d ¢                                             a d             a ¢ a
+     d     a                             a ¢    a                      a                                             ¢ a       a ¢ d
+         b                                                                                                               a b d
+       ¢     a                         ¢ a      ¢                a   ¢ a                                               ¢               a
+     ¢         e                           e                       e                                                 e                   e
+
+
+      ¿      ¿                     ¿   65                                                                        ¿/ π             ¿     ¿/       π   ¿            ^
+      d      ¢      ¢        a     a            a                     a                                          a
+                    a                                e       ¢                    e         ¢           e                         a     b    a       b            a
+      b      d                              a                                                                    b d              b                               b
+      ¢      a                     ¢
+                    ¢              e        ¢                                                                                           a            a
+                                                                                                                 a   ¢            d          d                    a
+                                                                                                            1)
+
+
+
+
+ 1) Extra bar line here in orig.
+
+                                                                                  -2-
+

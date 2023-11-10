@@ -1,0 +1,72 @@
+                                                     Chi passa per sta strada                                                                                 Filippo Azzaiolo
+
+
+              π                          ¿           π       ¿            π                ¿/       ¿       π                                                          ¿           π
+             a              /            a           a       a            a                a        a       a                        a            a           a        a           a
+   õ         a              /            a           a       a            a                a        a       a                        b            b           b        a           a
+   ù                        /                        ¢                    ¢                         ¢       ¢
+                                                                                                                                     ¢
+                                                                                                                                                  a
+                                                                                                                                                              ¢
+                                                                                                                                                                       ¢
+             A                           A                   A                             A                                                                                       A
+
+
+
+       ¿/     ¿        π                     ¿           π       ¿            π            ¿/                                                                                  ¿       π
+                                 5
+       a               a                     a           a       a            a            a        a       a           a                     a        a           a       a           a
+       ¢               a                     a           a       a            a            a        a       a           a                     b        b           b       a           a
+       ¢                                                                                                                                      ¢                    ¢
+                       ¢                                 ¢                    ¢                     ¢                   ¢                                                  ¢
+       a                                                                                                                                               a
+                                             A                   A                         A                A                                                                          A
+
+
+
+        π/         ∫                                                                       ¿        π           ¿           π                     ¿/
+                                                                                                                                     10
+       a                                             a       a            d                d        d       d               d                     d                        a       b
+       ¢          d        [¢]           d                                d                d        d       d               d                     d            d           b       d
+                                                                          a                         a                       a                                  e
+                                                                                                                                                               f           ¢       a
+       a
+                                                                                           a                a                                     a
+
+
+
+       ¿          π                                                  ¿            π   π/        ∫       π                       π/        ∫
+       d      d        b          b              a                                b   a         a       a                       a                     a        b           a           a
+       f      f        d          b              a                   d            d   a         a       a                       b        d            b        d           a           a
+                                                 a                   ¢                                                                   f
+                       a          d                                  a            a   ¢         ¢                                                              a           ¢
+       d      d                                                                                                                 a        ¢            d
+                                                                                                        A                                                                              A
+
+
+
+       ¿/     ¿        π                     ¿           π       ¿            π            ¿/                                                 ¿           π
+                                 15
+       a      a        d                     d           d       d            d            d                a           b                     d        d           b       b           a
+       b      b        d                     d           d       d            d            d        d       b           d                     f        f           d       b           a
+                       a                                 a                    a                     e                                                                                  a
+                                                                                                    f       ¢           a                                          a       d
+       a      a                                                                                                                               d        d
+                                             a                   a                         a
+
+
+
+       ¿       π       π/            ∫           π                   π/           ∫                                                   ¿/          ¿            π                   ø/
+                                                                                                                            20W                                                X
+              b        a          a          a                       a                a         b       a           a                a                         a       /           a
+       d      d        a          a          a                       b            d   b         d       a           a                ¢                         a       /           ¢
+       ¢
+       a      a        ¢          ¢                                                             a       ¢
+                                                                                                                                     ¢
+                                                                                                                                                               ¢       /           ¢
+                                                                                                                                                                                   ¢
+                                                                     a            ¢   d                                              a                                             a
+                                             A                                                                      A
+
+I-Bc:Museo internazionale e biblioteca della musica di Bologna Villotte napoletane a tre (1570). Encoded and edited by Sarge Gerbode.
+

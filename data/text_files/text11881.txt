@@ -1,0 +1,77 @@
+                                                   48. A while long while                                                         Anonymous
+
+
+
+           ¿ ¿      ¿            ¿                      ¿    ¿ ¿                                    5        ¿ ¿                                 ¿
+             a      ¢            d         d            ¢    a d          ¢ a       d                    ¢ a   a
+           a a      a            a                      a    b a          d   d b a                      b a e a                     e       e
+     ò     b b                                                            d       b                      d b a b                     f       f
+     ô     ¢
+             a
+                    b
+                    ¢
+                                 ¢
+                                     a ¢ d
+                                               a
+                                                        b
+                                                        ¢    d
+                                                                  d
+                                                                          a       ¢
+                                                                                                         a   ¢
+                                                                                                               a
+                                                                                                                             ¢
+                                                                                                                                         e
+                                                                                                                                           ¢ ¢
+
+
+
+
+     ¿ ¿                    ¿                                             10                                                             ¿   ¿   ¿
+       a     ¢              d        d ¢ a         a                                                                   a ¢ e             f   a   a
+     e a     ¢ e            f          b           a        a   a                  a                        a ¢ d        d               f   ¢   a
+     a b     d              f          d           b        a   a                  b            b d         b   d                        g   d   ¢
+                                                            b ¢ ¢ b                    ¢                    ¢   a                                ¢
+     ¢                                 a                    ¢   ¢                                                            ¢           a
+       d     ¢                   a                      a                      a           a
+
+
+
+
+         π                                              ¿    15   ¿     ¿                               ¿       ¿ ¿ ¿            ¿
+         a                                              a         ¢ ¢ e f              d                ¢                        a
+     ¢ d a       d                         ¢        d             d d   ¢              a                d       a ¢ e            a        a ¢
+     d   d ¢ a ¢                           d                      d                                     d       ¢ d a            ¢      a b
+                                               ¢                  a                                     a       ¢ ¢                   ¢   ¢
+                                       a                e           a                      a ¢ e                  a ¢
+             a                                                          ¢              d                                         a
+
+
+
+
+     ¿                      20   π         π ¿                   π                                          ¿     ¿/ π                   ¿ ¿     ¿
+                                         a ¢ a                 a ¢                                                d ¢ a                    a     ¢
+     d a d ¢ a                     a ¢ d     ¢               d a ¢       f                      e           e     a ¢ a                  e       b
+     a                           d           d               a b f e ¢ e                        f           f        d                   a b     d
+                                 e         a                                                            e   e
+     ¢     a                     f           a               ¢                              ¢             ¢ ¢                     a      ¢       a
+       d                                                       d ¢                                                a ¢ d
+
+
+
+
+25   ¿ ¿ ¿              ¿                      ¿ ¿                    ¿          ¿                  π                   30               ¿
+     d ¢                  a                      a          a ¢       e        e ¢         a                                       a     a
+     a a a              a a     d              ¢ a          ¢         a        a ¢         a        f e ¢ f e                      a     a
+         a              ¢ ¢                    d            d                    d         ¢                                       ¢   d ¢
+       b b                ¢ a                  ¢                                                                                     ¢   ¢
+       ¢                      e ¢              a            a                                   a ¢
+                        a                        e                        a        ¢        e                                    a       a
+                                                                                           1)
+
+
+
+
+ 1) Chord d/x/x/b/a/a in orig.
+
+ GB-AB:National Library of Wales ms 1G i.27:Brogyntyn lute book (1595), p.135a. Encoded and edited by Sarge Gerbode.
+

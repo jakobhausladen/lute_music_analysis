@@ -1,0 +1,86 @@
+                                                                      Shows and nightly revels                                                                                           Thomas Campion
+
+                  ¿       ¿                                                                                             ¿        ¿               ¿       ¿           ø               ¿       ¿       ¿
+                          d        ¢            a         f d                         ¢                                 d        ¢               a                                                   a
+              d                    b                                                  a                                 a        a               a               e                           a       a
+              f                                                                                                                  a               b               f                           b
+    ë                              a                                                  ¢    a
+                                                                                                                                                     ¢           e
+                                                                                                                                                                 ¢
+                                                                                                                                                                                             ¢       ¢       a
+                                                                                                                                                                                                                 e
+              d                                                                                        d        ¢       a                        a
+                                                                                                                                 b
+
+5    ¿        ¿           ¿                                       ¿       ¿       ¿ ¿                       ¿       ¿       π        ¿       π
+              a           ¢                                       ¢                 a                                                                                            a
+    d                     d                                       ¢               d a                      ¢ d d                                             b d                                     f       e
+                                                                  a               f                        d d f                                             d                                                       d
+                          a                                                       e ¢                      ¢ a                                                                                   e
+     ¢        e                    e        ¢                                     ¢                        a                                                 a                           a       ¢
+                                                                          ¢                                    d                             d
+
+    ø         ø           10       ¿ ¿                                                                                           ¿ ¿                 ¿           ¿       ø               ¿       ¿ ¿
+    a                                d ¢ a f d                                                    ¢                              d ¢                 a                                             a
+    a                 /            d   b                                                          a                              a a                 a             e                             a a
+    ¢                 /            f                                                                                               a                 b             f                             b
+    ¢                 /                a                                                          ¢ a
+                                                                                                                                                                 ¢ e
+                                                                                                                                                                   ¢
+                                                                                                                                                                                                 ¢ ¢ a
+                                                                                                                                                                                                                     e
+              a                    d                                                                            d ¢ a                                a
+                                                                                                                                         b
+     ¿        ¿           ¿                              15       ¿       ¿       ¿ ¿                       ¿       ¿       π        ¿       π
+              a           ¢                                       ¢                 a                                                                                            a
+    d                     d                                       ¢               d a                      ¢ d d                                             b d                                     f       e
+                                                                                  f                        d d f                                             d                                                       d
+                          a                                       e               e ¢                      ¢ a                                                                                   e
+     ¢        e                    e        ¢                                     ¢                        a                                                 a                           a       ¢
+                                                                          ¢                                    d                             d
+
+     ø            ø                        ¿/        π        ¿ ¿             20          ¿        ¿        π           ¿       π                ¿ ¿                                 ¿               ø       ¿       ¿
+     a                                               a        ¢                           a        ¢        d                                    d   d                               d               ¢
+     a                         /           d                  d d                         a        d        d                                    f d a                               d               d               d
+     ¢                         /           d                  d f                                           f                                                                a       f               d               f
+     ¢                         /           a                  a
+                                                                ¢
+                                                                                          ¢        a        f                f
+                                                                                                                                                 d
+                                                                                                                                                   a ¢                               f               a
+                                                                                                                                                                                                                     ¢
+              a
+                                           a
+        ¿         ¿        ø                        ¿/        π       ¿                           25       ¿/       π       ¿/       π               ¿           ¿       ¿                                   ø   ø
+                  a                                           a       ¢                                    a                ¢                        a                                                       a
+     a                     e                    d                     d       ¢        d                   a        ¢       d                        b                               e                       a           /
+     b                     f                    f                     a                                                                                                                      d               ¢           /
+     ¢        ¢
+              d
+                           e
+                           ¢
+                                                f                                                          ¢                a        a
+                                                                                                                                                     d           a
+                                                                                                                                                                         e
+                                                                                                                                                                         ¢
+                                                                                                                                                                                                             ¢           /
+                                                                                                                                                                                                                 a
+
+        ¿/        π        ¿           ¿                      ¿       ¿       ¿/ π                30       ¿        ¿                        ¿                   ø           ¿       ¿               ¿       ¿       ø
+                  a        ¢                                  a       ¢       d                            d                d                d                   ¢                                           a
+     d                     d           d                      a       d       d                            f        d       a                d                   d                   d               a               e
+     d                     d           f                                      f                                                      a       f                   d                   f               b               f
+     a                     a                                  ¢       a       f f                                   a       ¢                f                   a                                   ¢       ¢       e
+                                       ¢                                                                   d                                                                         ¢                       d       ¢
+     a
+         ¿/           π        ¿                                                  ¿/          π        ¿/           π       35           ¿       ¿           ¿                                           ø       ^
+                      a        ¢                                                  a                    ¢                                 a                                                               a
+        d                      d                ¢             d                   a        ¢           d                                 b                               e                               a
+        f                      a                                                                                                                                                     d                   ¢
+        f                                                                         ¢        ¢           a            a                                        e                                           ¢
+                                                                                                                                         d       a           ¢
+                                                                                                                                                                                                                 a
+
+
+The description of a masque (1607), #3. Encoded and edited by Sarge Gerbode.
+
