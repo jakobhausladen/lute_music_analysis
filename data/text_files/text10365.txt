@@ -1,0 +1,77 @@
+                                                        1. My heavy sprite                                                                  Anthony Holborne
+           æ        ø/ ¿        ¿ ¿ ¿ ¿              ¿ ¿ ¿ ¿        5       ø ¿ ¿              ø    ø            ø   ø        ¿ ¿ ¿ ¿               ø ø     10   ø ¿ ¿
+           a        ¢           a                    a   a                  a                  a    d            f   ¢        d                     ¢            a
+           a        e           a   a                b                      a e                a    a            ¢   a        a   a ¢                 d          b
+           b        fd          b d                  d b                    a fd               b                                d                   d b            a
+     ë     ¢
+                    ¢
+                                ¢     a
+                                                     d
+                                                       a   ¢
+                                                                            ¢
+                                                                                               ¢    ¢            e   b        ¢                     a
+                                                                                                                                                      ¢          d
+                                                                                                                                                                     ¢
+
+
+     ø ø        ¿ ¿ ¿ ¿                 ø   ø       ø/        15   ø ¿ ¿              ¿ ¿ ø                  ¿ ¿ ¿ ¿                  ø/            ¿ ¿ ø        20   ø/ ¿
+       ¢          a                     a   ¢       d ¢ a            a                a ¢ d                    d ¢                    d             a   a             ¢ a
+     a          a   e                   a   d       d              d b d              b d                    d     b                  d d               ¢             d
+     a                d                 b   d       b              f b                b f                    d                        f g             b d             d
+                                        ¢   a                      f                                         a                        f                               a
+     ¢              ¢                                                d                d
+                                                    d                                     d
+
+     ¿ ¿ ¿ ¿             ¿ ¿ ¿ ¿             ¿ ¿ ø           ø ø   25   ø ø           ø ¿ ¿                 ¿ ¿ ¿ ¿               ø ø       ø ¿ ¿          30   ¿ ¿ ¿ ¿
+                         da ¢                    a           ¢            a           ¢                     a a                   ¢                               a ¢
+     d d                 a a                 a a a           e          e a           a                     a a                   e         e a ¢               d     b
+     f g f                   ad              b b             f          fb            a d                   b bd                  f         fb                  d
+     f     e             ¢                   ¢                 e          ¢           b                       ¢                     e       e ¢                 a
+                             ¢                               ¢          ¢               ¢                                         ¢         ¢
+                                                 a                                                          a a
+
+     ¿ ¿ ¿ ¿             ø/ ¿       ¿ ¿ ¿ ¿              ¿ ¿ ø      35      ¿                                        ¿ ¿ ¿ ¿            ¿/ π                          ø/ ¿
+     a   a                          a                    a                                                                 a            ¢ a    a ¢ e                  fd
+     a   a               e          a   a                b d                b         b                              a b d              d d                           ¢
+     b a b               fd         b d                  b a b              b a   a b   a                            b                  d                             d
+     ¢     ¢             e          ¢     a              ¢                      ¢                                                       a
+                         ¢                               d ¢                a                                                                ¢                        a
+         a                                                                                                           d
+
+     ¿ ¿ ¿ ¿        40   ¿ ¿ ø              ø ¿ ¿        æ       ø/ ¿           ¿ ¿ ø      45       ¿                                   ø ø          ø ø          ø ¿ ¿
+     ¢ fd                ¢   a              a            a       ¢              ¢                   a                         a                                     ¢
+     d d                 d a                a e          a       d ¢            a   a                                     a             e   d       ¢ ¢           e
+     d                   d a b              a d          ¢       d                e                         e ¢ e                 e     f   f       f e           f
+     a                   a   ¢                           ¢       a              a                   ¢                                   e   e       e e           e
+         ¢ e                                ¢            ¢                                          e                                   ¢   ¢                     ¢   e
+                                                         a
+
+     ø ø   50   ø   ø         ¿ ¿ ¿ ¿           ø ¿ ¿            ¿ ¿ ø           ø    ø   55    ø   ¿ ¿               ø ¿ ¿           ø ¿ ¿            æ        ¿ ¿ ¿ ¿
+     ¢          a   ¢         a                     ¢            ¢   a           ¢    a         ¢     a               ¢               ¢                         a
+     ad             a         a                 e                e   a           d    ¢         d   d                 ¢ f             ¢   ¢          e          a a
+     a a        d               a bd            f                fdb             d    d         d   f                 e f             f e            f          b
+     b          ¢   b         ¢                                      ¢           a              a   e                                                e            ¢   a
+       ¢        d                                 ¢              ¢                    a             ¢                                                ¢
+                                                                                                                      ¢ d             ¢ ¢                       a
+
+60   ¿ ¿ ¿ ¿             ø ¿ ¿              ø ¿ ¿            ø ¿ ¿              ¿ ¿ ø          65   ¿ ¿ ¿ ¿                   ø ¿ ¿             ø/ ¿            ¿ ¿ ¿ ¿
+     a                     ¢                d a              a f                a ¢ d               ¢   a                     a                 a               a
+     b                   d                  d b d            b                  b   d               d   a                     a e               a               a   a
+     b a b               f                  f                d                  b   f               d a b                     a   d             ¢ a             b
+     ¢     ¢             e                                                                          a     ¢                                                       ¢   a
+     d                   ¢   a                d              a   ¢              d                                             ¢
+                                            d                                       d                   a                                       a               a
+                                                                                                                                a
+     ¿ ¿ ¿ ¿             70     ø   ø           æ       ø    ø          ø       ¿ ¿             ø       ¿    ¿       75   ¿ ¿ ¿ ¿                   ø ¿ ¿              æ
+     a                          a               a       a    ¢                  ¢                                         ¢   a                     a                  a
+     b                          a   e           a       ¢    d          d                      d d f                      d   a                     a e                a
+     b a b                      a   f           ¢       d    d                                 d f                        d a b                     a   d              ¢
+     ¢     ¢                        e           ¢       ¢    a                                 e f                        a     ¢                                      ¢
+     d                          ¢   ¢           ¢       a               ¢         e            f                                                    ¢                  ¢
+                                                a                                                d                            a                                        a
+                                                                                                                                                      a
+
+
+
+ Robert Dowland A Musicall Banquet (1610), f.b2. Encoded and edited by Sarge Gerbode.
+

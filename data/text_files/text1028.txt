@@ -1,0 +1,67 @@
+                                                                    Parfons regretz                                                                        Josquin des Prez
+                 æ               ø ¿                    ø ¿ ¿               ø ø        5    ø ø                 ø ø            ¿ ¿ ø                   ø ø             ø ¿ ¿
+                 a
+                             d   b a                  b b                   a                 d                 b b            a                         d            b b
+                             f f                      d   b                                 a a                 d d            b             b         a
+     ë           ¢                                                          ¢ ¢                                                         ¢
+                                                                                                                                                       ¢ ¢            a
+                                                                                                                               a                                             d
+
+10   ¿ ¿ ¿ ¿                      ø ø            ¿/ π ¿ ¿            ø ø           ¿ ¿ ¿ ¿             15       ø ¿ ¿              ø ø             ¿ ¿ ¿ ¿                ø ¿ ¿
+       a a a                        a
+     a                            d a            b a                              a   a                                            b               a     a                d   a
+                                  f              d   d b                 d                                      d d                d d             b a b                  a
+     ¢   ¢                          ¢                               ¢                 ¢                         e   f                              ¢                      a   a
+                                  ¢              a   a              d             ¢     ¢                       f                  a a                                    ¢ ¢
+     a                              a            ¢     d            f f           d a d                         ¢ d                                a
+
+     ø ¿                     20   ¿ ¿ ¿ ¿               ø ø          ¿/ π ¿ ¿                   ø ø             ¿ ¿ ¿ ¿            25       ø ¿ ¿           ø ø           ¿ ¿ ø
+                                    a a a                 a
+     b b                          a                     d a         b a                                         a   a                                       b             a
+                                                        f           d   d b                       d                                     d d b               d d           b   b
+     ¢                   a        ¢     ¢                 ¢                                     ¢                   ¢                   e                                 ¢ ¢
+     a d                                                ¢           a   a                       d a             ¢     f                 f d                 a a
+                 d                a                       a         ¢     d                     f               d a d                   ¢
+
+      ø ø                ø ¿ ¿         30       ¿ ¿ ¿                   ¿ ¿ ¿                                                                          ø ø            ¿ ¿ ¿ ¿
+                         a                                                                            a       a                                                       a     a
+             d             a ¢                  d                       a                                 a                                            d d                d
+      a                    b d                  f d   b a               b b a b                         d       e e ¢                                  f                  f
+     [a]                 ¢ ¢                    a   a                   ¢ ¢ a ¢ e                     f e ¢ a ¢                                        e                ¢   f
+      ¢                                                                                                 f e ¢ e   e                                    ¢
+
+
+35                               ¿ ¿            ø ø       ø ¿/ π             ø ø                ¿ ¿ ¿                    40                                                 ø ø
+                                                          a                                                                    a                       a
+             d ¢ a ¢ ¢                          a d         a ¢              d                  a                                  a                                       d d
+                 b a                              f         b                d a                b b a b                          d       e e ¢                             f
+     ¢                                                    ¢ ¢                a a                ¢ ¢ a ¢ e                      f e ¢ a ¢                                   e
+                                                ¢                                                                                f e ¢ e   e                               ¢
+
+
+      ¿ ¿ ¿ ¿                                             ¿ ¿           ø ø       45       ø ø            ø ø              ø ¿ ¿                   ¿ ¿ ø               ø ¿ ¿
+      a     a                                                                                                                                      a   a               ¢ ¢
+          d                                 d ¢ a ¢ ¢                   a                    a            d b             a a                      a   b               d   d
+            b                                   b a                                                       a a             b   a                                          f
+        ¢                              ¢                                     a             ¢ ¢                                                     ¢ a
+                                                                        ¢                                                                              d               ¢
+
+
+50   ø ¿                           ¿ ¿ ø                ø/ ¿        ø ø            ø ø          55   ø/ ¿               ¿ ¿ ø                ø ø           ø/ ¿           ¿ ¿ ø
+     d   ¢                         a                                                                 a                                                     a
+     f   d                         b d b              a a           b b           a d                   d           b a                                    b d         b a
+         a b                       d f d                                          b a                b              d   d                   b b               f        d b d
+     ¢ ¢                               e                              ¢                              ¢                                        ¢                            e
+                                                      ¢             a a           ¢ ¢                d ¢            a
+                                                      d                                                               d ¢                   a
+
+60       ø           ¿       ¿              ø     ø            ø/   ¿             ø/        ¿               ¿       ¿     ¿/       π        65     æ              æ         æ
+         a                   a             b     b             a    a             b        b              a         a     b                        a           a            a
+                 b                         d     d             b    b             d        d                        b     d                        b           b            b
+         ¢                                 ¢                   ¢                  ¢                       ¢                                        ¢           ¢            ¢
+                                           a     a                                a        a                              a
+                 a                                             a    a                                     d         a              d               a           a            a
+
+
+ A-Wn:Austrian National Library MS Mus. 18746 (1523), f.36v. Encoded and edited by Sarge Gerbode.
+

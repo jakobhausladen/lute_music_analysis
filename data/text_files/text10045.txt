@@ -1,0 +1,75 @@
+                                                          Awake Sweet Love                                                                                 John Dowland
+
+          ¿       ¿ ¿                      ø ¿            ¿       ¿       ¿        ¿   ¿    ¿     5        ø   ¿        ¿      ¿   ¿       ¿       ¿   ¿         ¿       ¿       ¿
+          ¢       ¢ d                      ¢ a
+          d       d a                      d              d                        d        d          ¢ d              ¢
+     ò    d       d                        d b              d b                    d        f          d                d b a              d                     d   d
+     ô    a                                a              a                        e
+                                                                                       f
+                                                                                            f          ¢
+                                                                                                       a                a
+                                                                                                                                           ¢ ¢ a
+                                                                                                                                           a
+                                                                                                                                                                     e
+                                                                                                                                                                 e a f
+                                                                                                                                                                 f
+
+
+     ¿/ π                      10                                                  π   ¿    π                  ¿   ø          ¿    ¿ ¿             ø ¿               ¿       ¿        ¿
+                                                                                                                              ¢    ¢ d             ¢ a
+     a   a                                     d          d ¢                          d                       d              d    d a             d             d
+                                       d                  d   b                        a b a                   a              d    d               d b             d b
+     a   a                             e                  ¢                                                ¢       a          a                    a             a
+       a ¢ e                           f            a
+     d
+                                                                                   d                           d
+
+15   ¿    ¿       ¿                ø       ¿        ¿     ¿       ¿            ¿   ¿   ¿          ¿        ¿   ¿   20       ¿/ π
+     d            d            ¢ d                  ¢                                                                   a   a                          d         d ¢
+     d            f            d                    d b a                      d                  d   d                                            d             d   b
+     e            f            ¢                                               ¢ ¢ a                  e                 a   a                      e             ¢
+          f                    a                    a                          a                  e a f                   a ¢ e                    f         a
+                                                                                                  f                     d
+
+
+     π    ¿       π                        ¿   ø          ¿       ¿       ¿        ¿/ π ¿         25     ¿ ¿                       ¿/ π                      ¿/ π
+                                                          a                        a a ¢                 a
+          d                            d                  ¢       d a              ¢    d              d ¢ a d                     ¢ ¢ d                     d   a ¢
+          a b a                        a                  d       a ¢              d                   d   f                       d   d                     d d
+                               ¢               a                                        a              e ¢                         ¢   a ¢                   e   ¢
+                                                          e       ¢                a                                               a
+                                                                                                           a
+     d                                 d
+
+                                                   ¿/ π                   30   ¿                                                               ¿                                      ø/
+          a ¢                  a                                      a        ¢   ¢ a                                  a
+     d                                             d   a                       ¢ d   a d                       ¢             a   d             d   d ¢                            d
+     d      d                          b           d a b                       d a                               d           b d               f       b                          d
+     a                a                            e                                                           ¢               e               f ¢                                e
+                               e                   f                           a ¢                             a
+                                                       d
+                                                                                                                                                                                  d
+
+     ¿    ¿       ¿       35       ¿/ π ¿                   ¿ ¿                            ¿/ π                         ¿/ π
+     a                             a a ¢                    a                                                                                          a ¢               a
+     ¢    d a                      ¢    d                 d ¢ a d                          ¢ ¢ d                        d   a ¢                    d
+     d    a ¢                      d                      d   f                            d   d                        d d                        d     d                        b
+                                        a                 e ¢                              ¢   a ¢                      e   ¢                      a             a
+     e    ¢                        a                                                       a                                                                             e
+                                                              a
+
+
+40   ¿/       π                                ¿                                                                                       ¿                                         ø/
+                               a               ¢              ¢       a                                a
+     d                a                        ¢ d                    a d              ¢                       a   d                   d           d   ¢                         d
+     d a              b                        d a                                       d                     b d                     f                     b                   d
+     e                                                                                 ¢                         e                     f ¢                                       e
+     f                                         a ¢                                     a
+                      d
+                                                                                                                                                                                 d
+
+
+
+
+ First book of ayres (1597), #19. Encoded and edited by Sarge Gerbode.
+

@@ -1,0 +1,73 @@
+                                                   While dancing rests                                                               John Coprario
+             ¿                        ¿/               π       ¿               ø           ¿                        ¿/                π           ¿
+             a                        a                                        a           a                        a                b            d
+             b                        b                        d               a           b                        b                             b
+             ¢                        ¢                a       ¢               b
+                                                               d               ¢                                                     a            ¢
+                                                                                           d                        d
+
+
+                 ¿            ¿            ¿               5           ø       ¿                                ¿                ¿            ¿
+                 d            d            ¢                           d                                        a                a
+                              d                                        d       d                                a
+                              d                                        f       f                                b                             d
+                              a                                        f       f                                ¢
+                 d                                                                                                               e
+                                                                       d
+
+
+                 ¿/           π            ¿                           ¿       ¿               ¿                                 ø            ¿
+                 ¢
+                 d                         d                           b                       a                                 d            a
+                 d                         b                                   a               b                                 d            b
+                 a                                                                                                               e            ¢
+                              d            ¢                           a                                                         f
+                                                                                               d
+
+
+10                   ¿        ¿            ¿                           ø       ¿                                ¿                ¿            ¿
+                 b            a                                        a       a                                a
+                 d            a                                        ¢       b                                b                             e
+                 ¢            ¢            b                           ¢       ¢                                ¢                a
+                 a            ¢                                                                                                               e
+                                                                       a       a
+
+
+                     ø        ø            ¿               ¿                   ø           ¿           15                        ø            ¿
+                              d            ¢                                   ¢           d                                     ¢
+                 a            a            ¢                                   e           d                /                    d            a
+                 a                         f               e                   f           f                /                    d            b
+                 ¢
+                              ¢            e
+                                                                               ¢
+                                                                                           f                /                    a            ¢
+                                                           ¢                               d
+
+
+                         ¿/       π                                                    ø               ¿
+                     a                             a                                   a               a
+                     a                                                                 b               b
+                     b                                                                 ¢               ¢                 a
+                     ¢            ¢                                                                                                       e
+                                               d                   ¢                   a
+
+
+                 ¿            ¿                ¿               ¿                   ø               ¿                                      ^
+                                                                           W                       d
+                                                                                                                        20
+                                                                                                                             X
+              a                                a                                   a               d                /                     a
+              a                                a                                   ¢               f                /                     ¢
+              b
+              ¢
+                              ¢
+                              a
+                                               ¢
+                                               ¢
+                                                               b                   ¢               f                /                     ¢
+                                                                                   a               d                                      a
+
+
+
+ The masque of squires (1614), #2. Encoded and edited by Sarge Gerbode.
+

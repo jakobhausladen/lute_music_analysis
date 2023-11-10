@@ -1,0 +1,81 @@
+                                                                  The Lark
+                                                        Words by Dryden and Lee.                                                 Henry Lawes
+
+               ¿ ¿
+               ø                       ø¿                         ¿   ¿   ¿   ¿         ¿ ¿ ¿                   5       ¿     ¿ ¿
+               ¢ a                      ¢ a                       ¢           ¢         ¢                               a d ¢ a
+             d                        d a ¢ a                     d           d           d ¢   d                         d   ¢
+             a d b                    d b d                       d           d         d a b d                         d       d
+     ë       a
+               a ¢                    e                           a       a             a   ¢
+                                                                                                                        e
+                                                                                                                          a
+                                                                                                                              a
+             a                                                        a
+
+                                                       ¿         ¿                        ¿ ¿                                          ¿
+                       a ¢                             ¢         d                f d ¢ a ¢                             a
+       ¢ d               d   a ¢                       d d   d   a                ¢         d                               d          d
+     d   b               a d                           d b a                      d       d                     b                      d
+                                                       a     ¢ a                          a                                                a
+                                                         ¢ a                      a
+                                                             d                                                                       d ¢       d
+
+
+10   ø ø               ¿                                  ¿     ¿                                                               ¿ ¿ ¿
+                               a         a                ¢ f d ¢   a                        f         f            ¢           a   f   a
+     ¢   d                 ¢       d   a ¢                d a ¢ d ¢                 d        d     f                d           ¢   ¢
+         d                 b         d b                  d       b                   d          d d        a                     d   d
+     ¢   e                                                      a ¢                 e                       a
+     a   f                                                                                         e                            a   a
+                           a       ¢           d
+                       a                                  a
+
+15   ¿ ¿                                               ¿                            ¿ ¿ ø              ¿    ¿       ø            ø ¿
+     a                         d ¢             d         a                            ¢ a              a                           ¢ a
+     ¢ d d                     d b             a         ¢                          d   d              ¢   d                     d d   d
+       a d                                       d b a   d                          d   f                d a                     a d
+       a a                                     a       ¢                                                                           a
+     a                         ¢ a                     a                                               a   a                     a
+                           ¢                   d           d                        ¢        d
+                                                                                                           a                     a
+
+20   ¿                                             ø   ¿/ π       ¿ ¿     ¿ ¿       ø ø          ¿     ¿/ π                 25       ¿/ π ¿/ π
+     a ¢ a                                         a   ¢ a          a     ¢ e       f            f e ¢ a                             a a ¢ a
+           d                                           a          d       d a       ¢            ¢     a d                           ¢
+     d     b a                                     d              d d                 d                                              d    d
+               ¢ a                                     a          a         ¢       ¢            ¢     ¢
+     e     ¢                                       e                e     ¢         a            a                                   a
+                                                                                                       e                                  ¢
+
+
+     ¿ ¿ π/ ∫                  π/ ∫            ¿ ¿ ø     ø                ¿ ¿       ¿ ¿ ø         30   ¿ ¿ ¿ ¿                         ¿   ¿       ø
+     a   a a                   a a             a         f                d         d   ¢              a
+                                               d ¢ d / / d
+     a ¢ a ¢                   a               a   ¢                      d         a   d              ¢   d                           d       ¢
+                                                     /
+                                                   ¢ / /
+     ¢ d ¢                                               a                b           b d              d   d                           d       d
+            a
+                               ¢
+                                  a                a   / a                  a           a
+                                                                                                       a
+                                                                                                             a                                 ¢
+                                                                                                                                               a
+     a   a                     e               a                                    d                    d ¢                           ¢ d
+
+
+     ¿     ¿       ¿                                          ¿   ¿                      ¿             35   ¿                    ¿ ¿           æ
+                               a           ¢ a                    d           ¢ a            f              f                    a
+     ¢                     d                           d ¢ a              a         d ¢                     d d                  ¢             d /
+     d     d                                               b              b           d                                          d b           a /
+                                                                                                                                               a /
+     ¢     a
+     a                                                                                a                                          a
+         d ¢                                                  d           a                       d         ¢               d
+                                           a                                                                                                   a
+
+
+
+ Source unknown (1650), %31. Encoded and edited by Sarge Gerbode.
+

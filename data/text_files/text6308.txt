@@ -1,0 +1,71 @@
+                                                      Move now with measured sound                                                                            Thomas Campion
+                          ¿                                       ¿            ¿           ¿                                                            ø/
+                                                                                                                                                                                   a
+                          a                                       a            ¢           a                        ¢                               e                 e
+                          ¢                                       ¢                        a            ¢                                           f                 f
+     ë                    ¢                                       ¢            ¢
+                                                                               e
+                                                                                           b            ¢
+                                                                                                                                                    ¢                 ¢
+
+
+             ¿            ¿               ¿                                                    ø/           ¿       5               ¿           ¿             ¿
+             ¢            ¢               a                                                    a
+             ¢            a               a               a            e                       a        a                           a           ¢             a                        ¢
+             a                                                                                 ¢        ¢                           ¢                         a            ¢
+                          b               ¢                                                    ¢        ¢                           ¢           ¢             b            ¢
+                                                          ¢                                                                                     e
+
+
+                 ø/                                                            ¿       ¿            ¿                                                        ø/
+                                                  a                            ¢       ¢            a                                                        a            a            ¢
+             e                e                                                ¢       a            a                       e                                a            a
+             f                f                                                a                                f                                            ¢
+                                                                                       b            ¢                                                        ¢            ¢
+             ¢                ¢                                                                                 ¢
+
+
+             ¿            ¿               ¿           ¿           10           ¿                                ¿       ¿                           ¿             ¿            ¿       ¿
+             e            f               ¢           a                        a       ¢            e           f       a                           a             ¢            ¢       b
+             a            f               d           a                        ¢                                        ¢                           ¢             ¢
+                                                                               d                                                                    d             d            ¢
+             ¢                            a           ¢
+                          e                                                    a                                        e                           a                          e
+                                                                                                                                                                  ¢
+
+                 ø/                   ¿                               ¿            ¿           ¿            ¿                           ¿                ¿            ¿            ¿
+                 ¢                    a                               a            ¢           e            a                           ¢                e            ¢            ¢
+                 ¢                    a                               a            a           a                                        a                a                         e
+                 e                                                                                                                                                    d            f
+                                      ¢                               ¢            b           ¢
+                                                                                                                                        ¢                                          ¢
+                 ¢                                                                                                                                       a            ¢
+
+15           ¿                ¿               ¿                                                ø/                                               ¿             ¿           ¿            ¿
+             a                                                                                 a        a           ¢                           e             f           ¢            a
+             a                            f               e                                    a        a                                       a             f           d            a
+                                                                       d                       ¢
+             ¢                            e                                                             ¢                                       ¢                         a            ¢
+                                          ¢                                                                                                                   e
+             e            a                                                                    a
+
+             ¿                                                ¿            ¿                        ¿           ¿           ¿           ¿                20               ø/           ¿
+             a                    ¢               e           f            a                        a           ¢           ¢           b                                 ¢            a
+             ¢                                                             ¢                        ¢           ¢                                                         ¢            a
+             d                                                                                      d           d           ¢                                             e
+                                                                                                                                                                                       ¢
+             a                                                             e                        a                       e
+                                                                                                                ¢                                                         ¢
+
+         ¿            ¿               ¿           ¿                    ¿           ¿   ¿            ¿               ¿           ¿           ¿                                          ^
+         a            ¢               e           a                    ¢           e   ¢            ¢               a                                                                  a
+         a            a               a                                a           a                e               a                   f               e                              a
+                                                                                       d            f                                                             d                    ¢
+         ¢            b               ¢                                                                             ¢                   e
+                                                                       ¢                            ¢                                   ¢
+                                                                                   a   ¢                            e           a                                                      a
+
+
+
+ The description of a masque (1607), #2. Encoded and edited by Sarge Gerbode.
+

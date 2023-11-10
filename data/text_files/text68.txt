@@ -1,0 +1,193 @@
+                                          Chi passa per sta strada                                                                          Filippo Azzaiolo
+
+
+
+%0
+       0 x                    /
+                              /                                                                                                 ˆ
+                                                                                                                                È   È
+                                                                                                                                    ˆ         È
+                                                                                                                                              ˆ        ˆ
+                                                                                                                                                       Ë
+         z           È
+                    Nˆ            NˆË   È
+                                        ˆ   ˆ
+                                            Ë   È
+                                                ˆ                                   Nˆ Ë/          NˆÈ      ˆ
+                                                                                                            È       ˆ
+                                                                                                                    È                                      NˆÈ
+                   Chi            pas- sa per 'sta                                  stra-          da e   non sos-          pi-     ra,     be-     a-      to
+                  (Af-)           fac- cia- ti che                                    tu            mi    dai la            vi-     ta,     mes-   chi-    no
+                   (Et)            io ci pas- so da                                  se-            ra     e mat-           ti-     na,     mes-   chi-    no
+                 (Com-)           par Vas- si- lo,                                  che             sta    a suo            lo-     co,     be-     a-      to
+                     π                ¿     π           ¿           π                 ¿/            ¿               π                                  ¿       π
+                    a         /    a        a           a           a                a              a            a          a       a         a        a       a
+           õ        a         /    a        a           a           a                a              a            a          b       b         b        a       a
+           ù                  /             ¢                       ¢                               ¢            ¢
+                                                                                                                            ¢
+                                                                                                                                    a
+                                                                                                                                              ¢
+                                                                                                                                                       ¢
+                    A              A                    A                            A                                                                         A
+
+
+
+%0     0
+                                                        5
+
+             È / Nˆ
+             ˆ    Í IÍ   È È
+                       ˆ ˆ
+                     ˆ Í     ˆ ˆ È  NˆË   ˆ
+                                          È   ˆ
+                                              Ë   È
+                                                  ˆ   NˆË/ ˆÈ ˆ  È ˆ È                                                               ˆ
+                                                                                                                                     È ˆ
+                                                                                                                                       È           ˆ
+                                                                                                                                                   È
+                                                                                                                                                   Ë Nˆ
+                                                                                                                                                   ˆ    È
+            s'è,                chi pas- sa per 'sta stra- da e non sos-                                                             pi- ra be- a- to
+            me, fa la li le la, af- fac- cia- ti che   tu mi dai la                                                                  vi- ta, mes- chi- no
+            me,                  et  io ci pas- so da se- ra e mat-                                                                  ti- na, mes- chi- no
+            s'è                com- par Vas- si- lo,  che sta a suo                                                                  lo- co, be- a- to,
+              ¿/                  ¿             π           ¿           π       ¿              π           ¿/                                              ¿       π
+             a                                  a           a           a       a           a              a    a       a   a        a a           a       a a
+             ¢                                  a           a           a       a           a              a    a       a   a        b b           b       a a
+             ¢                                                                                                                       ¢             ¢
+                                                ¢                       ¢                   ¢                   ¢           ¢                              ¢
+             a                                                                                                                         a
+                                                            A                   A                          A            A                                    A
+
+
+
+%0
+       0
+                                                                                                    10
+
+              ˆ/
+              Ë                       ˆ
+                                      Ë             È
+                                                    ˆ           Ë
+                                                                ˆ           È
+                                                                            ˆ   Ë
+                                                                                ˆ          È
+                                                                                           ˆ               ˆ
+                                                                                                           Ë/           È
+                                                                                                                        ˆ   ˆ
+                                                                                                                            È           ¯
+                                                                                                                                        ˆ     ˆ
+                                                                                                                                              ˘    È
+                                                                                                                                                   ˆ       È
+                                                                                                                                                           ˆ
+                                                                                                                È
+                                                                                                                ˆ                                                  È
+                                                                                                                                                                   ˆ
+            s'e,                      -         Be-          a- to è chi lo,                              chi lo puo- te            fa- re        Per la re-
+            me,                                 Se'l        cie- lo non ti                                pos- sa con- so-          la- re        Per la re-
+            me,                                  Et          tu, cru- del, che                            non t'af- fac- ci         mai, -        Per- chè lo
+            s'è,                                Sa-         lu- ta- mi no                                 po- co la co-             ma- re        Per la re-
+               π/   ∫                                           ¿           π   ¿          π               ¿/                           ¿     π
+              a         a a d                                   d       d       d          d               d            a   b        d d b                 b       a
+              ¢ d [¢] d     d                                   d       d       d          d               d    d       b   d        f f d                 b       a
+                            a                                           a                  a                    e                                                  a
+                                                                                                                f       ¢   a            a                 d
+              a                                                                                                                      d d
+                                                                a               a                          a
+
+
+
+
+I-Bc:Museo internazionale e biblioteca della musica di Bologna Villotte napoletane a tre (1570). Encoded and edited by Sarge Gerbode.
+ % 00     IˆË     ˆ
+                  È   Nˆ
+                       È/ ˆ Í ˆ È                                 È / Nˆ
+                                                                  ˆ    Í           È
+                                                                                   ˆ     ˆ
+                                                                                         È          ˆ
+                                                                                                    È       È
+                                                                                                            ˆ             È / Nˆ
+                                                                                                                          ˆ    Í Iˆ
+                                                                                                                                  Í                ˆ
+                                                                                                                                                   Í           ˆ
+                                                                                                                                                               È    È
+                                                                                                                                                                    ˆ     È
+                                                                                                                                                                          ˆ
+           a- le. Af-                                                                                                                                                   be-
+           a- le. Af- fac- cia- ti                               mo, se non ch'io mo- ro                               mo, fa             la       li          le   la, se'l
+          fai? Af-                                                                                                                                                       et
+           a- le. Af-                                                                                                                                                   sa-
+            ¿            π             π/    ∫      π             π/       ∫                                                ¿/                                 ¿          π
+                         b             a     a     a              a                a     b          a       a             a                                    a          d
+           d             d             a     a     a              b        d       b     d          a       a             b                                    b          d
+           ¢                                                               f                                                                                              a
+           a             a             ¢     ¢                                           a          ¢
+                                                                  a        ¢       d                                      a                                    a
+                                                   A                                                        A
+
+
+
+ %0
+      0
+15
+
+           ˆ
+           Ë      ˆ
+                  È           ˆ
+                              Ë        È
+                                       ˆ           ˆ
+                                                   Ë/             ˆ
+                                                                  È            ˆ
+                                                                               È         ¯
+                                                                                         ˆ     ˘
+                                                                                               ˆ        È
+                                                                                                        ˆ        ˆ
+                                                                                                                 È                      ˆ
+                                                                                                                                        È Nˆ
+                                                          ˆ
+                                                          È                                                           È
+                                                                                                                      ˆ           Ë
+                                                                                                                                 Iˆ           È/ ˆ  Í                     ˆ
+                                                                                                                                                                          È
+           a-    to è        chi       lo,        chi      lo    puo-       te          fa-    re, per           la   re-         a- le, af- fac- cia-                    ti
+          cie-     lo        non        ti        pos-    sa     con-      so-          la-    re, per           la   re-         a- le, af- fac- cia-                    ti
+           tu,   cru-        del,      che        non    t'af-   fac-       ci          mai,    - per-          chè   lo         fai? af- fac- cia-                       ti
+          lu-     ta-        mi        no         po-     co      la       co-          ma-    re per            la   re-         a- le, af- fac- cia-                    ti
+           ¿         π        ¿         π          ¿/                                    ¿      π                                 ¿            π               π/    ∫    π
+           d      d           d        d           d              a        b             d     d b               b a                           b               a     a    a
+           d      d           d        d           d      d       b        d             f     f d               b a              d            d               a     a    a
+                  a                    a                  e                                                        a              ¢
+                                                          f       ¢        a                     a               d                a            a               ¢     ¢
+                                                                                         d     d
+           a                  a                    a                                                                                                                      A
+
+                                                                                                W                                                          X
+                                                                                               20
+
+
+ %0
+      0                                                                                                                                                /
+                 È/
+                 ˆ             Í
+                              Nˆ              ˆ
+                                              È          ˆ
+                                                         È             ˆ           ˆ                            Ë/
+                                                                                                                ˆ         Ë
+                                                                                                                          ˆ       Nˆ
+                                                                                                                                   È                   /             Á/
+                                                                                                                                                                     ˝
+                mo,                                                                                                               Af-
+                mo,               se         non        ch'io      mo-             ro                       mo.                    Et                               mo.
+                mo,                                                                                                               Per-
+                mo,
+                 π/               ∫                                                                             ¿/          ¿         π                              ø/
+                                                                                                    W                                                      X
+                 a                           a           b             a           a                        a                         a                /             a
+                 b                d          b           d             a           a                        ¢                         a                /             ¢
+                                                         a             ¢
+                                                                                                            ¢
+                                                                                                                                      ¢                /             ¢
+                                                                                                                                                                     ¢
+                 a                ¢          d                                                              a                                                        a
+                                                                                   A
+

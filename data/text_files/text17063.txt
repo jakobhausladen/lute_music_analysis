@@ -1,0 +1,136 @@
+                                         51. Adieu mes amours
+                                                       (Josquin des Prez)                                                  Hans Newsidler
+
+        ø ¿                                                                               ¿ ¿ ¿                    ¿ ¿ ¿
+          b d b a                      a             a b a b d                            f   f d b                d   b d b a
+        d d       d                    ¢ d a ¢ d ¢ d                                      d b                      a ¢ d       d
+                                                                                              d
+    ë                                                                                     a   d                    ¢   a
+
+
+
+5                                              ¿                         ¿   ¿         ¿                                   ¿     ¿ ¿
+              a b          a                                                 a     a b d   d b a                           b       a
+    b d                        d b             d         b                         a     b                                 d
+    d                                          b d b a b d                                                                   b d e d
+                                                                                   ¢     ¢                                 a     a
+    a                 d                        ¢         a                                                                         d
+
+
+                                  10                            ¿                               ¿ ¿           ¿ ¿
+              a b a                                                                                           a   a           a b
+          d               d b          a       a b d                         b d b a b               a        b     d b a b d
+        b b               a            b a b d b                                                                d
+                                                   d                     ¢                      a
+    ¢             a                                                                                           a   d
+                                       d       d
+
+            ¿                              ¿                                                        15               ¿
+    d a b d f                                d   d             a                                         b a b d b a b a
+                                                 a       a b d                                                         b d
+                                           b b d   a b d
+    a                  ¢ ¢ d               ¢     ¢                                                       a       d   a
+    ¢                  a                                                                                               d
+
+
+                                                                ¿ ¿
+                                                                        a   a b                                d   d b a   b
+    b a a       d                                             b b a b d   d                                              d
+          d ¢ d   ¢ d ¢ a ¢                                 d   d                                                      b
+    ¢                                                                                                          ¢ a ¢ d     a ¢
+    a           ¢                                           a           d                                      d       d
+
+
+                                                                    20   ø                               ¿
+    b a                                                                    b a b                         b d b a   b a   b
+              d     d ¢ a d ¢ a ¢                                        d       d                               d     d
+              a b                                                        d d                             d         d
+    a             ¢                                                      a a                             a         a
+              ¢   a
+
+
+                        ¿                                                                                 ø                25   ø ¿
+    a           a ¢ a ¢ d                                 d b a b a b a                                            a                a
+      d b a b d                                                         d b                              a b d         b        d d
+    d               b                                           d                                        b d
+                    ¢                                           a                                        ¢                      d d ¢ a
+    a                                                 d                                                                         f f d
+
+
+                                                            ø       ¿
+    a   b f d b d b a                                                                                                  a b a b d
+      b               d                                    b b d b a                            a   a b d
+            b                                              d         d                          b d     b
+    ¢                                                                                                                       d
+    a       ¢                                              a a
+
+
+Ein Newgeordent Künstlich Lautenbuch, v.1 (1536), f.p4v. Encoded and edited by Sarge Gerbode.
+              π                             30   ¿ ¿                                 ¿                                     ¿ ¿     ¿
+     b a    b d                                  b ffd b a                 a b a b d b d b a                                 a a b d
+           d d ¢ a d ¢ a ¢                       d                   d b d                   d                             b
+                                                                                     d                                     d   b
+     a        ¢                                  a   a                               a                                             ¢
+                                                                                                                           a
+
+
+                                                    ø ¿                  35       ø ¿                           ¿
+       d b a b a                                                                        a           a   d b a b   a
+                 d b a                             a b d b a b                d d                     d         d   d b d
+     d       d         d b a                       b                                                d           b
+             a                                     ¢ ¢                        d d ¢ a
+     d                                               a                        f f d ¢               a           ¢
+
+
+     ¿ ¿                        ¿ ¿                       ¿ ¿                                       40           ¿
+                                                                                                               a b d b a
+     b                                a                     d   d ¢ a d ¢ a ¢                            d ¢ d   d       d
+     d                          b                         d b
+                                ¢     a   a ¢             d   ¢                                          a       a
+     a           a ¢            d       a ¢ d             f ¢ a
+         b b d                      d d
+
+                                                    ¿ ¿ ¿                               ¿ ¿                               ¿
+     a             a b a b d                        f   f d b                     d       b d b a                     a b a
+     ¢ d a ¢ d ¢ d                                  d b                                 ¢ d       d               b d       d b
+                                                        d                                                         d       d f d
+                                                    a   d                     ¢           a
+                                                                                                                  a       d
+
+
+45   ¿         ¿ ¿                        ¿                            ¿         ¿ ¿
+                 a                    a b d   d b a                    b           a                                   a b a
+     d         b                      a                                  a                                         d              d b
+     b d b a b d                                                       d   d ¢ d e d                             b b              a
+                                      ¢     ¢                          a         a
+     ¢         a                                                                   d                         ¢             a
+
+
+                       ¿   50           ¿                     ¿ ¿
+                                                              a   a           a b                        d a b a b d f
+     a       a b d                b b a b   a                 b     d b a b d
+     b a b d b                            d                     d
+                 d              ¢     a                                                                  a                     ¢ a ¢ d
+                                                              d d                                        ¢                     a
+     d       d
+
+     ¿                                                                   55                              ¿ ¿         ¿ ¿
+       d     d b a                  b a b d b a b   a                                                                             a b
+           a                                      a b d                           b a a       d                        b b d
+     b b d                                      d                                       d ¢ d   ¢                    d   d
+     ¢     ¢                        a           d                                 ¢           a
+                                                    d                             a           ¢                      a   a
+
+
+                                                                                                                                   ^
+     d   d b           a            b               b     a   a
+                                d                                  d     ¢ d                d   ¢    a d         ¢     a   ¢       d
+     b   b                                                                                                                         d
+     ¢ d                            a       ¢       a                                   ¢                                          a
+                       d                                       ¢                        a
+
+
+
+
+                                                                   -2-
+

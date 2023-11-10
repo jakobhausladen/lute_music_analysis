@@ -1,0 +1,71 @@
+                                              Dear, if I with guile                                                                   Thomas Campion
+
+
+
+
+               ¿                                                     ø               ¿                ø       ¿                                           ø
+               a        d       b                                    d           d                    d       b                       d                   a
+     ë
+               b        f       b       d            ò               f           d                    b       b
+                                                                                                                          ë
+                                                                                                                                      b           a       b
+                        ¢       d
+                                        e
+                                        f            ô               f
+                                                                     d
+                                                                                 a
+                                                                                                      ¢
+                                                                                                              ¢                       a
+                                                                                                                                                          d
+
+
+
+
+5        ¿                                       ø           ¿                   ø       ¿                                    ø                       ¿
+         a
+         b    d     b       a                    ¢           d               a           d                    d       ¢       d               d       d       d
+         b    b     d       ¢           ò        d           d               b           d
+                                                                                                  ë
+                                                                                                              d               d               f       f       d
+         d    ¢     a
+                            ¢
+                                        ô        ¢
+                                                 a
+                                                             a
+                                                                             d
+                                                                                         a                    ¢
+                                                                                                              a
+                                                                                                                              a               f       f       e
+
+
+
+
+10                     ø                                 π                   ¿           ø                                ¿               ø       π
+               d       a                     a                               a           a                        a       ¢                       d
+         d     d       ¢                     a       b           d           a           ¢                /               d               d       a           ¢
+         f     f       d            ò        ¢       d                       ¢           d        ò       /       d       d               f
+         f     f
+               d
+                       a            ó        ¢       d                       ¢
+                                                                                         a        ô       /               a               f       ¢
+
+
+
+
+                    ø                                ¿                                       15                                                       ø
+                    ¢                                d                   d                                            d           ¢                   d
+                    d               d                d                   d                                            f           d                   d           /
+     ò              d               f                f
+                                                                                                  ë
+                                                                                                                                  d                   f           /
+     ó              a               f                f
+                                                                         ¢                                            d
+                                                                                                                                  a                   f
+                                                                                                                                                      d
+                                                                                                                                                                  /
+
+
+
+
+ Fourth book of ayres (1617), #12. Encoded and edited by Sarge Gerbode.
+

@@ -1,0 +1,69 @@
+                                                                The willow song                                                                                       Robert Johnson
+
+                   ¿                       ¿                                                                  ¿            ¿             ¿                        ¿         ¿       ¿
+                   d                       ¢           a        a                                             a                          a                        a
+                   a                       a           a                                  e                   a                          b                        a                 d
+     ò                                                 b                                                      ¢                                                                     b
+     ô             ¢                       b           ¢
+                                                                            ¢
+                                                                                                              ¢
+                                                                                                                           a
+                                                                                                                                         a
+                                                                                                                                                                  ¢
+                                                                                                                                                                  e         a       d
+
+
+              ø                ¿           5               ¿/           π                                                      ø             ¿                          ø           ¿
+                                                                                                                                             a                          a           a
+              a                d                       a                                                                   a                                            a
+              b                a                       b            d                b            a                        b                 b                          b
+              a                a                       a                                                                   a                                            ¢
+                                                                                                                                                                                    d
+              d                                        d                                                                   d                 a
+
+
+         ¿/            π                                            ø            ¿        10          ø           ¿                          ø           ¿                      ø       ¿
+         e             f           e           ¢                    e        d                        a           d                      d               d                  d           a
+         f                                                          f        b                        b           a                      b               b                  a
+         e                                                          e                                 a
+         ¢                                                                                                        a                                                         a
+                                                                             d                        d                                  d               d                              a
+                                                                    A                                             a                                                         a
+
+          ø                ¿                       ø            ¿           15                ø           ¿                                                                             ¿
+          a                a                                                                  a       a                            a                                                a
+          a                b                       d            a                             ¢       b                            a                             b
+          b                a                       ¢            b                             ¢       ¢                                              ¢                      e       b
+          ¢                                        a            ¢                                                                  ¢
+                           d                                                                  a
+                                                                                                                                                                                    A
+
+             ø             ¿                       ø            ¿                             ø       ¿               20            ¿/               π        ¿                         ø/
+                           a                       a                                                  a                             a
+          a                a                       a            e                             a       a                             b                         d                     d
+          ¢                                                     a                             ¢                                    [b]                        a                     b
+          ¢                ¢                                                                  ¢       ¢                                                       a
+                                                   ¢                                                                                d
+          a                                                                                   a                                                  d                                  d
+                                                                A
+
+              ¿/               π                                                     ¿/           π                                                          ¿/         π           ¿
+                               d           a           ¢                             d                                                                       d                      d
+          a                                                                          a                                                                       a                      a
+          b                                                                                                                a                                 b
+          a                                            a                             a            a           ¢
+                                           d
+          d                    d                                                     d                                                                       d          ¢           a
+
+
+25       ¿/                π                                                ¿/            π           ¿                            ø             ¿                      ¿           ø
+         ¢                                                                                            a                            a                                    a
+         a                                                                  d                         a                            a             e                      a
+                                                   a                        b                                                      a                                    ¢
+                           a           ¢                                                                                                                                ¢
+         ¢                             a                                                                                           ¢
+                                                                            d             ¢           a                                                                             a
+                                                                                                                                                 A
+
+ William Shakespeare Othello IV-3 (1605). Encoded and edited by Sarge Gerbode.
+

@@ -1,0 +1,67 @@
+                                                          14. Down in a valley                                                                                 Michael Cavendish
+
+      ¿/        π       ¿                 ¿       ¿       ¿                 ¿/       π       ¿                ¿       ¿           ¿    5           ø       ¿                ¿/    π       ¿
+      ¢                                   ¢       ¢                         a                a                        ¢                            a       d                ¢
+      d         d       ¢                 d       d                         ¢        d                        d       d       d                    ¢       a                d             d
+      d                 d                 d                                 d                d                d                                    d       b                d
+      a                                   a                                                                   a               a                                             a             a
+                        a                                                   a        ¢       e                                ¢                    a                              e       ¢
+                                                                                                                                                           d
+
+
+     ø ¿                    ¿/        π                            ¿/        π                       10   ¿           ¿       ¿                ¿ ¿                                ¿ ø
+     a d                    ¢                                                                             a                   f                h f                      d         ¢
+     ¢                      a                 d                    d                                                          d                d d             ¢                  d d
+     d b                              d       b       a            f         a                            d                                    b                                  d
+                                                                   f                 ¢       a                                a                                                   a
+     a                                                                                                    e           a                          a
+                                                                                                                                               d
+
+
+      ¿         ¿       ¿                 ø       ¿           15       ¿/        π       ¿                ø       ¿                   ¿/       π           ¿                ¿     ¿       ¿
+      ¢         ¢       d                 ¢       a                    a                 a                a       a                   a        a                            a     a       d
+      d         d       a                 d       ¢                                      a                ¢       b                   a        b       e                    a     a       a
+      d                 b                 d       d                    ¢         d                        d       d                                    f                    ¢     ¢
+      a                                   a                                              ¢                                            ¢                                     ¢             ¢
+                                                  a                                                       a
+                        d                                              a                                                                                                                  a
+
+
+      ¿/        π       ¿        20       ¿           ¿       π/   ∫                     ø       ¿                ø           ¿                ¿/      π           ¿              ø       ¿
+      f         a                         a                        a                     ¢       ¢                h           f                d       f           e              f
+                        e                 a                   d                          d       d                d           d                f                   a              ¢       d
+      d                 a                                                                                         b                                                               d
+                                          ¢       ¢           a                          a       a                            a                                                           a
+      a         d       ¢                                                                                                                      d                   ¢              a
+                                          a                                                                       d
+
+
+25                                                            ¿ ¿ ¿                          ø ¿                  ø ¿                          ¿       ¿                     30   ø ¿
+      a                                                       ¢ ¢                            b b                  f d                          a       b       a                  a f
+      a         d   ¢       a         ¢                       d d d                          d d                    d                          b                        d         ¢
+                                              b                                              d                    d                                                               d d
+                                                              a   a                          a a                                                       a       ¢
+                    a                                                                                             a ¢                          d                                  a a
+     d
+
+
+      ¿/        π       ¿                 ¿       ¿       ¿                 ø        ¿               ¿/       π           ¿   35       ø           ¿                ¿/      π
+      e         a       a                 a       a                         a        d               ¢                                 a           d                ¢
+      a         b       a                 ¢       ¢       d                 ¢        a               d                d                ¢                            a             d
+                                          d       d                         d                                                          d           b                        d     b       a
+      ¢                 ¢                                 a                                          a                a
+                a                         a               ¢                 a                                 e       ¢                a
+                                                                                     d
+
+
+           ¿/       π                                              ¿             ¿       ¿                        ¿           ¿                                    40       ¿         ^
+                                                                   a                     f                        h           f                        d                    ¢         ¢
+          d                                                                              d                        d           d            ¢                                d         d
+          f         a                                              d                                              b                                                         d
+          f                      ¢            a                                          a                                                                                  a
+                                                                   e             a                                            a
+                                                                                                                  d
+
+
+ 14 Ayres in tablatorie (1598), #14. Encoded and edited by Sarge Gerbode.
+

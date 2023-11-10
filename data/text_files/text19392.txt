@@ -1,0 +1,151 @@
+                                                 9. Pavane francese 1                                                             Vincenzo Capirola
+
+         ø        ø ø         ¿ ¿ ¿ ¿         ø ø      ø ¿ ¿        5   ¿ ¿ ¿ ¿          ¿ ¿ ¿ ¿
+                                                                                              ø ø     ø ø                     ø ø 10 ¿ ¿ ¿ ¿              ø ø
+         f        dd          b 1)            a        af               d b                a    f                             dd b                        ab
+                 /b               Ud R                                      d R                                                          Ud R
+         b          b               a         b        bb               b     a      a       ab
+                                                                                           bdb                                bb            a             b
+                 /b b         dbR             b        b                             b       b                                bb db    R                  bd
+  ë      d       /¢d          a
+                                              d
+                                                ¢
+                                                       d
+                                                           d            ¢ a
+                                                                         d ¢a
+                                                                          d
+                                                                                         a      d                             ¢
+                                                                                                                                d
+                                                                                                                                     a
+                                                                                                                                                          d
+                                                                                    d        d
+          A @     A                  @      A      @A          @         A@          A       @                                A@       A @      A
+  ¿ ¿ ¿ ¿   ¿ ¿ ¿ ¿                     ¿ ø ¿ 15 ø ø 2) ø ø      ¿                     ø ø     ¿ ¿                            ¿ ¿ 20 ø ø   ¿ ¿ ¿ ¿
+                                                        W f X
+                                                         bb/ bd R           R   R         f i R
+    a                                                                  a ¢ d  f h      i   i   h  f                                  d     d
+      db      aR bd                    a UbR aR b                                                                               R f g fd
+                                                                                                                              i g            R fgR
+    b               R                            b       b / b
+      d¢      aR                       a
+                                                 d
+                                                    ¢
+                                                         d / d
+                                                           d                              h f
+                                                                                                                                     d     d
+  b        d                           d
+  @         A                                @ A         @       @                             A                                  @     A
+  ¿ ¿ ¿ ¿   ¿ ¿ ¿ ¿                    ¿ ¿ ¿ ¿ 25 ø ø      ø ø     ø ø    ø ø     ø ¿ ¿ 30 ¿ ¿ ¿                              ¿       ¿ ¿ ¿ ¿            ¿ ø ¿
+  dfR h R
+        d
+           g R gf
+           f  d                                    d       df d
+                                                                          gd fg R
+                                                                                       d fd
+                                                                                             g R g
+                  R                   d            d       dg f                                                               R
+                                                                                                                              f           d              d
+                                      d R      R                                                                                             R
+                                                                                                                                          R gd               R
+                                                                                                                                                           R f
+                                         g  f  d   f       f         g    d f   g                                                         f              fg
+           d                                          f      d                               d
+  d                                                              d        f     d
+                                                   d       d                                                                          d                  d
+
+  ø ø        ø ø 35 ø ø          ø ø        ¿ ¿ ¿ ¿           ø ø        ø ø        ø ¿ ¿      ø ø    æ         ø ø       ø ø 45 ø ø             ø ø         ø ø
+                                              R db
+                                                                               40
+  d          d i hf              da         ba                                                 d      d         a         a
+  f          ff i                ab               R           df        gd          f          d      d         bd        bb db                 da       b
+  g
+    f
+             g
+               h fd              ¢
+                                            d
+                                            a
+                                                              fg        df             R
+                                                                                    g fd       f
+                                                                                                 f
+                                                                                                      f         bb
+                                                                                                                  a
+                                                                                                                          bd bd
+                                                                                                                            ¢ a¢
+                                                                                                                                                bb
+                                                                                                                                                aa
+                                                                                                                                                         bd
+                                                                                                                                                         ¢d
+  d          d        f            d                            d       f           d                           d¢        da ¢ a                ¢        d
+                                                              d           d                    d    d                                             d        b
+             @                                                A                                     @ A                                                  @
+   ø ø        ø ø   50    æ     ¿ ¿ ¿ ¿              ø ø       ø ø       ø ø    55   ø ¿ ¿      ¿ ¿ ¿ ¿ ø ø                       æ       ø ø   60   ¿ ¿ ¿ ¿
+
+  b R
+  ab         b           b      b                    bb       b          bb          b          b                    d            d       fd             f
+             b           b      b                    bd       b          bd          b          b bdR                f            f       gf                R
+                                                                                                                                                         R fd
+                                                                                                                                                         g
+                                d R  R                                                   d R      R
+  a            ¢                  a ¢d               ¢d       ¢          ¢d          ¢     a    ¢d                   f            f
+             d           d                                        d                                                                       d          d
+  d                                                                                                                       d                 d
+  A                                                                                                        @      A
+  ¿ ¿ ¿      ¿      ø ø        ø ø      ø ø          ø ø      æ      ø ø       ¿ ¿                   ø ø        ¿ ¿                       ø ø        ¿ ¿ ¿ ¿
+                                                                                                                                                     b R db
+                                                65                                                         70
+                                                     d        d      aa          a                                                        a          ba
+     R
+  d df              gd        f             d        f        f      bb
+                                                                                 b R d
+                                                                                 bdb a                aa
+                                                                                                                     bd R
+                                                                                                                     a a   R
+                                                                                                                          bd              bd               R
+   R
+  fg                df        gg            f
+                                            f
+                                                     g
+                                                       f
+                                                              g      bb                R              bb
+                                                                                                      aa             a
+                                                                                                                                          bb         d
+                    f         d                      d        d      d         d                                                          d¢
+  d                   d         f       d                                                            d          d                                    b
+                                                              @A        @                             A           @                     A@
+  ø ø     75 ø ø
+             æ                  ¿ ¿ ¿ ¿   ¿ ¿           ¿ ¿   ¿ ¿ ¿ ¿     ¿ ¿ ¿ ¿ 80                 ø ø        ø ø       ø ø         ø ø  ø ø 85 ø ø
+             aa               a           b                   b             a                                               i         hd fb a
+                                                                                     b R
+  a     a bb                  b           b                   b             b        ab                     b             bf          i f gd b
+  b     b bb                  b           d                  d              b                               b             b                       b
+    a                                                                                a                        ¢             h         f    d        ¢
+             d                d¢a                                 a¢ d ¢d                                   d             d             d    b d
+  d     d                             d ba             bd bd                         d
+  A     @ A                           @ A                           @ A         @ A                                       @             A       @            A
+  ø ¿ ¿     ¿ ¿ ¿             ¿     ¿ ¿ ¿ ¿             ø ø 90 æ    ø ø     ø ø    ø ø                      ø    ø        ø ø         ø ø        ø ø          ^
+      R    g R                R
+                                                                                                                     95
+  a i h    f  db              a     b a                            dd d            b b                      b
+  b                                   R d
+                                      b   b            d       d fd fb db                                   d   a         b
+                                                                                                                                      b R
+                                                                                                                                      a b        b           b
+  b
+           a                        a
+                                        fd R           f
+                                                          f
+                                                               f gf gd e d                                  e   b
+                                                                                                                a
+                                                                                                                          bd
+                                                                                                                          ¢ d         a
+                                                                                                                                                 b
+                                                                                                                                                   ¢
+                                                                                                                                                             b
+  d                                                                d        d      b                        b             d                      d           d
+                                                       d       d      d       b       b                         d           b         d
+  @                                                    A                    @ A                             @                         A                       @
+1) Ornaments ' " ' on top of notes moved to the side for legibility.
+2) Measure added by Otto Gombosi.
+
+US-Cn:Newberry Library VM 140.C25:Capirola lute book (1517), f.17v. Encoded by Göran Crona; edited by Sarge Gerbode.
+

@@ -1,0 +1,71 @@
+                                                                       Alme luce beate                                                                                                                Giulio Caccini
+               ø ø                    ¿       ¿           ø                 ø ø                          ø ø             5       ø           ø                        ø           ø                   ø        ¿
+               ¢                      d                   d                 ¢                              a                                 ¢                        a           a                            ¢
+             d d                      a                   a                 d d                          d a                     ¢           ¢                        a           a                   ¢        ¢       ¢ d
+             f                                                              f d                          f                       e           e                        b           b                   e        e
+     ê       e
+               ¢
+                                                                                                           ¢
+                                      d ¢                 a                             ¢                d d                     ¢                                                a                   ¢
+             B                                                              B                                                                E                        F                                        E
+      ø      ø                ø ¿ ¿                   10           ¿    ¿           ø               ø ¿ ¿                                ø           ø                    ø           ¿       ¿                    ø   ¿/      π
+      a      a                  ¢ ¢                                                                 a a
+      a      a                ¢ d ¢                                ¢   e                            a a                              e d                                  d           ¢ a                        ¢ d
+      b      b                e f e                                f e f                            b   d                            a f                                  f           b                        e d
+                                                                       e                              ¢                                e                                  f           ¢                        e e
+                                                                                                      d                              ¢                                                                         e
+             a                ¢                                    ¢                                a                                                                     a           a                        ¢
+      F                               E                                B                                                               B
+
+15   ¿ ¿ ¿ ¿                              ø ø                          ø ¿ ¿                             ø       ¿       ¿                   ø           ø    20          ¿/ π ¿/ π                                    ø ø
+     a   a                                  ¢                          a                                                                                 ¢                d ¢ a                                          d
+     a d ¢                                e d                            d                               ¢ ¢                                 ¢           ¢                a    a                                       a ¢
+     b   f e                              f f                          d a ¢                             ¢ ¢                                 e           e                     b d                                     b
+     ¢                                    e                                                              d e d                                                                                                           ¢
+         e                                ¢                                                                e
+                                                                                                                                             ¢                                                a                          a
+                                            B                          A a                               A                                               E                    F                                        F
+     ø ¿                                  ¿ ¿ ¿ ¿                                     ø ø           25       ø ø                     ø           ¿       ¿                    ø           ø               ¿        ¿   ¿ ¿
+     ¢ a   a                              ¢   ¢                                       ¢                      a a                                         d                    ¢           ¢               ¢        d   d ¢
+     ¢ ¢ d                                ¢ d ¢                                     e e                      a                   d a                                          d           d               d        a   d
+     e e f                                e f f e                                   f f                      b b                 f                                            d           d               d        b   d
+         e                                  e                                       e                                              a                                                      a                        a
+                                                                                      ¢                        d
+     ¢                                    ¢   ¢                                                              a                   d d
+       E                                                                            B                                                                                         a                           a            a
+     ø ø             30   ø ø                         ø        ø                ø           ¿   ¿                ø       ø                   ¿     ¿     ¿        ¿                   35      ø ø                      ø       ø
+     d                    a                                                                     a                a       a                         ¢                                          ¢ a
+     a d                  b b                         a ¢                       a a                              ¢       ¢                   d a ¢ ¢                                          e a                      a d
+       f                  a d                         a a                       a                                d       d                   a b e e                                            b                      b b
+     a                      e                         b                         b ¢                                                                                                                                    e ¢
+                            a                         ¢ b                       ¢                                a
+     d                                                                            e                                                                      a ¢                                              a            a
+       D                  C                                                                                              C                   a                            E                   B
+     ¿                    ¿       ¿               ø        ø            ø ¿ ¿                       40       ø ø                 ø ø                              ø ø                             ø        ø           ø ø
+             a                                                          a a ¢                                d d                 d a                              a                                                    a a
+     ¢               d ¢                      e e                       a ¢                                  a a                 a a                              a a                             e e                  a a
+     b                 f e                    f a                       b d                                                        b                              b b                             f a                  b b
+                                              e                                                                                                                                                   e
+                                                ¢                         a                                                                                                                         ¢
+     a                    ¢                                             a                                    a                   a                                a                                                    a
+                                              B                                                                      F                           F                            F                   B                            F
+
+45    ø      ¿                            ø ø                          ¿ ¿ ø                                 ø ¿                                              ¿               ø                       50       ø ¿/ π
+                              a           ¢ a                          a   a                                 a                                                                ¢                                a    ¢
+     ¢ ¢ d                                e a                          ¢ d d                                 ¢ d                     ¢                                      f e                                a d
+     d e                                  f b                          b a d                                 d a b                                           f            e   f                                b a
+     ¢                                                                                                                                                       e
+                                                                           a                                                                                 e                                                   ¢
+                                                      a                                                                      a                               ¢                                                 a
+     C       E                            B                            C                                     C       a                                                                        B
+         ø           ¿        ¿                   ø                ø                        ø        ø                       ø           ø               55           ø                   ¿           ¿                 ^
+         d                    a                   ¢                                         ¢                                            a                            ¢                               a
+         a           a                            ¢                                         e        a                       a           d                            ¢                                                    e
+                                                  f                e                        f        a                       b           b                            f                   e                                f
+         a           ¢                                                                               b                       e                                                                                             e
+                                                                                                     ¢
+         d           d                                ¢                                                                      a           a                                ¢
+                                                                   E                        B                                                                                             E                                B
+
+ Nuove Musiche (1614), #2. Encoded and edited by Sarge Gerbode.
+

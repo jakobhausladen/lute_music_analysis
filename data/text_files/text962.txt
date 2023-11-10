@@ -1,0 +1,76 @@
+                                         Fain would I change that note                                                                               Tobias Hume
+
+
+
+                 ø           ¿                ø       ¿                     ø/               ø           ¿        5       ø            ¿              ø       ¿
+                 a                            a                             a                a           f                e            a
+                 a                            a       a                     a                ¢                            f            a              a
+     ò           ¢                            ¢       a                                      d                                         ¢              a
+     ô           ¢
+                             a
+                                              ¢       b
+                                                      ¢
+                                                                            ¢
+                                                                            a
+                                                                                             ¢
+                                                                                             a
+                                                                                                                                       ¢              ¢
+                                                                                                                                                      ¢
+                                                                                                                                                              b
+
+
+
+
+         æ                           æ                ø            ¿        10       ¿           ¿           ¿                     ø/                 ø       ¿
+         a                           a                                               a                                                                a       f
+         a                           a                a           a                  a                                             a                  ¢
+         ¢                           ¢                ¢           a                  ¢                                             a                  d
+         ¢                           ¢                ¢           b                  ¢           b                                 b                  ¢
+         ¢                                                                                                   e                     ¢                  a
+         a
+
+
+
+         ¿           ¿           ¿                ø           ¿        15        ø       ¿                       ø/                    ø/                 ø       ¿
+         e                                                                       a                                                                        a
+         f                                        a                              a                                                  a                     a
+                                                  a                              ¢                                                  a
+                                 ¢                ¢           b                  ¢                               ¢                  b                     ¢
+                                                  ¢                              ¢                                                  ¢
+                     a                                                           a                                                                                a
+
+
+
+             ø/          20              ø/                       ø/                 ø/                               ø        ¿                      ø       ¿
+                                                                  a                  a                                e
+             a                                                    a                  ¢                                f
+             a                                                    ¢                  d
+             b                                                    ¢                  ¢
+             ¢                                                                       a                                                                        a
+                                                                                                                               a                      e
+
+
+
+25       ø           ¿           ¿                æ                    ø/                ø           ¿                    ø/       30           ø/                ø/
+                                                  a                                      a                                                                        a
+         a                                        a                    a                 a                                a                                       a
+         a                       d                ¢                    a                 ¢                                a                                       ¢
+         ¢           b                            ¢                    b                 ¢                                b                                       ¢
+         ¢                                        ¢                    ¢                                                  ¢
+                                                  a                                                  a
+
+
+
+         ø               ¿                    ø           ¿                      ø       ¿           35               ø        ¿            ¿                 æ
+         a               f                    e                                                                                                               a
+         ¢                                    f                                                                      a                                        a
+         d                                                                                                           a                      d                 ¢
+         ¢                                                                                                           ¢         b                              ¢
+         a                                                                               a                           ¢                                        ¢
+                                                          a                      e                                                                            a
+
+
+
+
+ The First Part of Ayres (1605), f.q1. Encoded and edited by Sarge Gerbode.
+

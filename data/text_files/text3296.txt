@@ -1,0 +1,75 @@
+                                                                                           Discontent                                                                                           John Wilson
+
+
+      ø           ¿           ¿                               ø           ¿        ¿                       ¿   ¿        ø                   ¿/           π       ¿/       π                     ¿             ¿            ø
+                                                                                                           a
+                                                                          b    d                               d    b
+                                                                          d                                b        b                   b
+      d                                           ë                       ¢
+                                                                          a                                ¢
+                                                                                                                    ¢
+                                                                                                                    d
+                                                                                                                                        ¢
+                                                                                                                                        d
+                                                                                                                                                                                            a
+                                                                                                                                                                                            d                ¢
+                                                                                                                                                                                                                       ¢
+                                                                                                                                                                                                                       d
+              d           b                                                                                                                                      a
+      A       D           E                                   C                                                                         A                a                E                 D                          A
+
+
+5    ¿/       π           ¿           ¿                   ø       ø                    ø           ¿       ¿            ¿       ¿       ¿            ¿                ¿        ¿        ø               10        ø            ø
+     a                    a                                                                                                                                                                                       a
+                          a       d                       b                                                                                                                    a                                  a
+     b                    ¢                               d       d                    d                   ¢        a           b       a                                      ¢                                  ¢
+                                                          d       ¢                    a                   ¢        b           ¢       ¢            b                         ¢                                  ¢
+                                                                  e                    a                   ¢        ¢                   ¢
+                          a                               b                                    a                                                                      a             a                                          a
+     A        a                                                                        a                            B                   B
+
+
+      ø       ¿               ¿                       ¿                            ¿           ¿               ø        ø                   ø            ¿       ¿        15       ¿/               π         ¿            ¿
+      b       a                                                                                                                             a                    a                 d                          a            b
+      b                   d                           b       a                                                                             b            d                         d                          b            a
+      d                   b                           b                   d        d       ¢                   d                            d                                      f
+                                                      ¢                            ¢                                                        ¢                                      f            d             ¢            a
+      a                                                                            ¢                           e        a                   a            ¢       d
+                                                                                   a
+              C           B                           A       a                                                C
+
+
+       ø                                      ¿                       ø        ¿           ¿                    ¿                                ¿           ¿                 ¿            ¿                ¿             ¿
+       a              a                                                                                                 d           b            a           b                 d                             a
+                      b           d           b                   a            d           d                                                                                   b                                           d
+       b                                                          b            f           d                                                                                   b                             d
+                                                                               f           e                                ¢       a                        a                 ¢
+       d                                                                                                                                         d
+                  d                                               d                                                                                                                         a
+                                                                                                                                                                                                             E
+
+
+20        ¿           ¿           ¿               ¿                       ¿/           π           ø                ¿                                    ø                     ¿            ¿                ¿/            π
+                                                                                                                    a                                    b                     d            b                a
+         a            b           b               a                       b                                         b                                    b                                                             d
+                                                                          b                                         d                                    d
+         a                        a                                       ¢                                         ¢                                    d                     ¢            a
+                                                                                                                    a                                    d                                                   d             ¢
+                                                                                                                                                         b
+         D                        D                                       A        B               C                            C       D                E
+
+
+                                                                                                       ¿       25           ø                                         ¿                             ¿                 ø/
+          a                                                                                                                 a                                                                                         a
+          b               d               b               a                                                                 a           a                ¢            d                                               ¢
+                                                                      d                                                     ¢           d                             ¢                                               d
+                                                                                                                                                                                                                      ¢
+          a                                                                                                                                                                                                           a
+                                                          d           b                a                                    a           a
+                                                                                                       a                                                                                            C
+
+
+
+
+ Source unknown (1659), %1. Encoded and edited by Sarge Gerbode.
+

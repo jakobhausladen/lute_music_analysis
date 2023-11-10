@@ -1,0 +1,88 @@
+                                                                            46. Mingo                                                            Anonymous
+
+
+
+                  ¿   ¿    ¿   ¿                               ¿                                  ¿                           ¿         5            ¿/   π
+                  a   d    ¢   a            ¢ a a              a                                         a       ¢ a a        a   a                  a    ¢ ff
+                  a   f    d   a            d ¢ a e            a a           d    ¢      a   a a a               d ¢ a e        a           e    e   ¢    dff
+                      f    f   b            dd b f             ¢ ¢           d    d      b   a b b               dd b f       ¢ b           f    f   d    d h h
+Lute        ë     ¢   ¢
+                           ¢
+                               ¢            a     e
+                                              a ¢ ¢
+                                                               ¢ ¢ ¢         e
+                                                                             f
+                                                                                  ¢
+                                                                                  a
+                                                                                         ¢
+                                                                                         ¢
+                                                                                             b ¢ ¢
+                                                                                             ¢
+                                                                                                                 a     e
+                                                                                                                   a ¢ ¢
+                                                                                                                              ¢ ¢           e
+                                                                                                                                            ¢
+                                                                                                                                                 e
+                                                                                                                                                 ¢   a
+                                                                                                                                                          a
+                                                                                                                                                            a a
+                                                               a                               a                              a
+                                       1)
+
+
+
+
+    ¿    ¿                         ¿                           ¿        ¿     ¿ ¿                     ¿ ¿ ¿            10   ¿ ¿ ¿                ¿     ¿ ¿
+    e    h g h   g                 h d  ¢                  a   ¢            a ¢ d                     f f h                       a a              a   a
+    f    h h f h                     f  ¢                  a   ¢        e e ¢ d f                     d ¢ a                 a                    e   a b d
+    f    i h f h                   k   fd                  b   d        f f                                      b d        b b d d              f b   df
+    ¢      e f e                   k ¢ [e]                 ¢   e        e                                        ¢ e          ¢ a ¢ ¢            e ¢     e
+                                                                        ¢                                                         e              ¢     a ¢
+                                   h
+                                                      2)
+
+
+
+
+    ¿   ¿                          ¿ ¿/       π                             ¿ ¿              15   ¿   ¿ ¿               ¿     ¿     ¿        ¿ ¿
+    a   ¢   d   ¢     d    ¢         ¢                                     ¢ ¢                    ¢ d ¢ a                 ¢ ¢ d     h       fd ¢ ¢ d          d
+    a   d   d   d     d    d       dd        d    fd                fdfddd                        d dd a                e e e f     a           f e e f       f
+    b   d   f   d     f    d       fd        f    g f               g f g fdd                     df d b                fff                  g    f           f
+    ¢   a   f   a     f    a       f a       f    ff                ffff a a                      a f a ¢               e     ¢     f       [h] ¢     ¢       ¢
+                                                  d                 d d                                                 ¢                           ¢
+                                   d         d      d                 d d
+                                                                                                                                            3)
+
+
+
+
+                                                           ¿ ¿              20   ¿   ¿   ¿    ¿         π          π                                 ¿ ¿/ π
+    a   a           a              a          a       a      a      d   d        ¢   a   ¢    d         ¢              ¢          a              a   a    a
+    ¢   ¢   d d d b                b          b       b    e a      a   a        d   a   ¢    f        [d]             d          a e            a e a e ¢
+    d   d   d f f b                b          d       d    f b      b   b        d   b   d    f              d b d b d f          b a            b a b a d
+            e e f                                          e        ¢   ¢        a   ¢   e    ¢                                   ¢              ¢   ¢
+    a   a   f       d              d          a       a    ¢                                                                    ¢   ¢              ¢   ¢ a
+                d d                                          a
+                                                                                                        4)
+
+
+
+
+           ¿                       ¿              ¿            25       ¿ ¿                      ¿ ¿         ¿                                        ¿ ø    ^
+   ¢ a ¢ a ¢ a                          a     a            a        ¢ a a a                  ¢ a a
+   d ¢ d ¢ dd                      e    a e a              a        db e aaa                 db e            a    babababa                      baba          a
+   dddddf b                        f    bdfb               b        ddf b b                  ddf ¢           ¢    d¢d¢d¢d¢                      d¢d¢          ¢
+   a a af¢                         e    ¢ ¢ e              ¢        a e ¢                    a e ¢                ¢ ¢ ¢ ¢ ¢ ¢                   ¢ ¢ ¢         ¢
+     a a       d                   ¢      d¢                          a ¢                      a ¢                a a a a                       a a ¢         ¢
+             d                          a     a                           a                        a         a     a a                           a a          a
+
+
+
+
+ 1) Bar lines editorial.
+ 2) c in orig.
+ 3) e in orig.
+ 4) c in orig.
+
+ GB-AB:National Library of Wales ms 1G i.27:Brogyntyn lute book (1595), p.134a. Encoded and edited by Sarge Gerbode.
+

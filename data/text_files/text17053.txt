@@ -1,0 +1,71 @@
+                                              46. Was wird es doch?
+                                                              (Ludwig Senfl)                                                          Hans Newsidler
+
+             ø ¿ ¿                       ¿ ¿            ¿ ¿                                 ¿ ¿                5        ¿ ¿ ¿              ø ¿ ¿
+                 ¢              ¢ a      a a                 a ¢ d                  f d ¢ a f h                     h f f   e              f f
+             d d                       d               d d d   d                    ¢       ¢ d                           a
+                          d              d             a                            a b d                               a                  d d
+     ë       a a a
+               ¢                     e ¢ a             ¢   ¢ e
+                                                               a ¢                            f                           ¢
+                                                                                                                                           a   e
+
+
+     ¿                                                             ¿ ¿       ¿     ¿            10
+     f        f                                                      ¢       h h f d ¢ [d][¢][a] ¢ a
+                                              a                    a                                 d      d¢ ad¢ a ¢
+     aa       a                                                      d                             a ba
+             ¢a¢ e ¢a                                              a         ff e ¢ a              a    ¢a¢
+                             e ¢a             ¢a          a¢ e                     d                      a
+                                                   d¢d                                               d
+                                                                                             1)
+
+
+     ¿ ¿                                                ¿ ¿                                                                  ¿ ¿
+                                               a ¢ a ¢ df                                                                    a            a
+     d            d                      d ¢ d                                                    a ¢ a ¢ d
+                                                        a                      a d b d
+     a    a                              a                a                    a ¢ e e                                       ¢     ¢         a
+            a ¢ a ¢ e                                                                                                            a a ¢ a ¢ e
+         dd
+
+
+15                       ¿ ¿                                                                  ¿ ¿                                          ¿ ¿
+     a        a ¢ d ¢ df h                                                             a      ¢       ¢                      f [e] f h f d ¢ a
+         d                                            a   a ¢ d ¢ a ¢ d                           a
+                                                  b a b d b                                   a                              a         a d
+     ¢                              f             ¢                                                   a ¢                                ¢ a
+                                          h                                                     ¢ ¢ e                                        e
+                                                                                                                                 2)
+
+
+     ¿             ¿                20   ¿  ¿             ¿    ¿ ¿          ø ¿ ¿ ¿  ¿                             ¿ ¿ ¿ ¿ 25 ¿ ¿
+         a             ¢a       a        ¢f   d¢          af     e          f     f  f                             fd ¢ a             a
+     d       d¢ a¢          d            d  df              d¢ a                     d                             d d¢ d
+     f                                      a             d                 ddd dd b a a                                     fd b
+                                         aa¢ f              a ¢                          ¢                         a a            ¢a¢e¢a
+     ¢            a                                                         a                                            a ¢
+
+
+     ¿     ¿                        ¿ ¿ ¿ ¿                      ¿ ¿                   ¿                                30   ø
+     a     a                                            a ¢ a ¢ df                     h h fd ¢ d ¢ a                        a       a a ¢
+             d¢ ad                  ¢ a ¢           d¢d                                                             d          ¢ a ¢d d
+           d                        dbd                            a                                                         dd
+                                       e ¢          a                                  f          ¢
+     e e ¢ a                        a a             ¢            a                     h                                     a
+
+
+     ¿       ¿                     ¿ ¿              ¿              ¿                                       ¿   35      ¿                        ^
+     dd ¢ df h            h f d [¢] e               f                                                      a        a
+     aa a ¢d              d¢ a a                                         ¢ a ¢d¢ a a ¢d                               dd d ¢ a d ¢              d
+        db                a     d                   d     d        d     d        d                                 d                           d
+     ¢                             ¢                e e ¢ a        a                                                   a ¢                      a
+                                                               e         a              a                           e    a
+                                         3)
+ 1) Corrected on the source document by person with the same handwriting as the one that added 2 MS pages to the end of the book.
+    Orig. h c d (9 k p in German tab).
+ 2) Corrected from open top course per Newsidler's errata sheet.
+ 3) Note added by editor [SG].
+
+ Ein Newgeordent Künstlich Lautenbuch, v.1 (1536), f.o2v. Encoded by Douglas Towne; edited by Sarge Gerbode.
+

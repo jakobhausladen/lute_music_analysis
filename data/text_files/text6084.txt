@@ -1,0 +1,56 @@
+                                                                       Jack and Joan                                             Thomas Campion
+
+
+
+              ø           ø                ¿           ¿           ¿           ¿                 ¿       ¿       ¿           ¿    ¿       ¿       ø
+                                                                               a                 ¢       a       ¢
+              a           a                a           a           a           a                 d               a           a    a       ¢       a
+              ¢           a                ¢           a           ¢           ¢                 d       d       a           ¢    a       e       a
+    ë         ¢           b                ¢           b
+                                                       ¢
+                                                                   ¢           ¢                 a
+                                                                                                         e
+                                                                                                                 b           ¢    b
+                                                                                                                                  ¢
+                                                                                                                                          e       b
+                                                                                                                                                  ¢
+                                                                   a
+
+
+
+
+5        ø            ø                ¿           ¿           ¿           ¿                 ¿           ¿       ¿       ¿        ¿       ¿       ø
+                                                                           a                 ¢           a       ¢
+        a             a                a           a           a           a                 d                   a       a        a       ¢       a
+        ¢             a                ¢           a           ¢           ¢                 d           d       a       ¢        a       e       a
+        ¢             b                ¢           b           ¢           ¢                 a                   b       ¢        b       e       b
+                                                   ¢                                                     e                        ¢               ¢
+                                                               a
+
+
+
+
+        ø         ¿           ¿   10           ¿           ¿           ø                ¿/           π                       ¿        ¿       ¿   ø
+        a                                      a                                                                             a        a           a
+        a         ¢           e                a       ¢               a            ¢            e           f       a       a        a       e   a
+        ¢         d                                    d               a            d                        f               ¢        a           ¢
+        ¢                                                                                                                    ¢                    ¢
+                                                       a               ¢                                                              ¢
+        a         ¢                            e                                     ¢                       e               a                    a
+
+
+
+
+        ø         ¿           ¿            ¿           ¿           ø           15   ¿/           π                           ¿    ¿       ¿       ^
+        a                                  a                                                                                 a    a               a
+        a      ¢              e            a           ¢           a                ¢            e           f       a       a    a       e       a
+        ¢      d                                       d           a                d                        f               ¢    a               ¢
+        ¢                                                                                                                    ¢                    ¢
+                                                       a           ¢                                                              ¢
+        a      ¢                           e                                        ¢                        e               a                    a
+
+
+
+
+First book of ayres (1613), #20. Encoded and edited by Sarge Gerbode.
+
